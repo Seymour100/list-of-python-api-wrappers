@@ -1,30 +1,27 @@
 # List of Python API Wrappers
 
-Hi. Below you will find a list of web services along with links to their docs and Python wrappers/libraries.
+Updated 2020-02-07.
 
-### [3taps](https://3taps.com/) - Data Exchange
-- [API Documentation](http://docs.3taps.com/)
-- [Python wrapper for 3taps](https://github.com/mkolodny/3taps)
+Below you will find a list along with links to their docs and Python wrappers/libraries. Originally from Real Python -> johnwmiller.
 
-### [Alexa Web](http://www.alexa.com/) - Web traffic data
-- [API Documentation](http://docs.aws.amazon.com/AlexaWebInfoService/latest/)
+
+### [Amazon Alexa](http://www.alexa.com/) - Web traffic data
+- [API Documentation](https://github.com/alexa/alexa-apis-for-python)
 - [Python wrapper for Alexa Web](https://github.com/muhuk/python-awis)
 
-### [Amazon](http://www.amazon.com/) - Online Shopping
-- [API Documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
-- [Python wrapper for Amazon.com](https://github.com/yoavaviram/python-amazon-simple-product-api)
+### [Amazon](https://www.amazon.com/) - Online Shopping
+- [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
+- [Python wrapper for Amazon.com](https://github.com/alexa/alexa-apis-for-python)
 
 ### [Amazon Product API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Amazon's product catalog
 - [API Documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html)
 - [Python wrapper](https://github.com/asherAgs/amzSear)
 
-### [Amazon S3](https://aws.amazon.com/s3/) - Cloud storage
-- [API Documentation](https://aws.amazon.com/documentation/s3/)
-- [Python wrapper](https://github.com/kennethreitz/bucketstore)
-
 ### [AWS](http://aws.amazon.com) - Cloud computing platform
 - [API Documentation](http://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto3)
+
+--- updated through here
 
 ### [AWS - Amazon Simple Workflow](http://aws.amazon.com/swf/) - Orchestration service for building scalable distributed applications
 - [API Documentation](http://aws.amazon.com/documentation/swf/)
