@@ -6,10 +6,11 @@ Below you will find a list along with links to their docs and Python wrappers/li
 
 #### Last updated by Jeff Hale 2020-04-10.
 
+---
 ### Have a new API to add? Great! Please submit a pull request.
 
 ### Found a broken API? Great! Please submit a pull request with it fixed or removed.
-
+---
 If it has been over three years since there was any development activity for an API wrapper, the chances that it doesn't work great are pretty high. Consequently, we tend to remove those API wrappers.
 ---
 
