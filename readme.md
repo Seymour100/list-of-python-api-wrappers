@@ -13,33 +13,38 @@ Below you will find a list along with links to their docs and Python wrappers/li
 
 ### [Amazon Alexa](https://www.alexa.com/) - Web traffic data
 - [API Documentation](https://github.com/alexa/alexa-apis-for-python)
-- [Python wrapper for Alexa Web](https://github.com/muhuk/python-awis)
+- [Python wrapper](https://github.com/muhuk/python-awis)
 
-### [Amazon](https://www.amazon.com/) - Online Shopping
+### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
 - [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
-- [Python wrapper for Amazon.com](https://github.com/alexa/alexa-apis-for-python)
+- [Python wrapper](https://python-amazon-product-api.readthedocs.io/en/latest/)
+
+## [Amazon Alexa](https://developer.amazon.com/en-US/alexa) - Cloud-based voice service for devices
+- [API Documentation](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/build-skills-with-the-alexa-skills-kit.html)
+- [Python wrapper](https://github.com/alexa/alexa-apis-for-python)
 
 ### [Amazon Product API](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Amazon's product catalog
 - [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html)
-- [Python wrapper](https://github.com/asherAgs/amzSear)
+- [First Python wrapper](https://github.com/yoavaviram/python-amazon-simple-product-api)
+- [Second Python wrapper](https://github.com/asherAgs/amzSear)
 
 ### [AWS](https://aws.amazon.com) - Cloud computing platform
 - [API Documentation](https://aws.amazon.com/documentation/)
-- [Python wrapper for AWS](https://github.com/boto/boto3)
+- [Python wrapper](https://github.com/boto/boto3)
 
 ### [AWS - Amazon Simple Workflow](https://aws.amazon.com/swf/) - Orchestration service for building scalable distributed applications
 - [API Documentation](https://aws.amazon.com/documentation/swf/)
-- [Python wrapper for Amazon Simple Workflow](https://github.com/xethorn/garcon)
+- [Python wrapper](https://github.com/xethorn/garcon)
 
 ### [Archive.is](https://archive.is/) - Time capsule for web pages
 - [API Documentation](https://mementoweb.org/depot/native/archiveis/)
 - [Python wrapper](https://github.com/pastpages/archiveis)
 
-### [Archive.org](https://archive.org/) - Internet Archive
+### [Archive.org](https://archive.org/) - Internet archive
 - [API Documentation](https://archive.org/help/json.php)
-- [Python wrapper for archive.org](https://pypi.python.org/pypi/internetarchive)
+- [Python wrapper](https://pypi.python.org/pypi/internetarchive)
 
-### [Arista EOS](https://www.arista.com/en/products/eos) - Network Operating System
+### [Arista EOS](https://www.arista.com/en/products/eos) - Network operating system
 - [API Documentation](https://aristanetworks.github.io/EosSdk/docs/1.6.0/ref/)
 - [Python wrapper](https://github.com/arista-eosplus/pyeapi)
 
@@ -47,7 +52,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](https://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
 
-### [Ascribe](https://www.ascribe.io) - Register and license Intellectual Property
+### [Ascribe](https://www.ascribe.io) - Register and license intellectual Property
 - [API Documentation](https://docs.ascribe.apiary.io)
 - [Python wrapper](https://pypi.org/project/ascribe/)
 
@@ -59,13 +64,13 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
 - [Python wrapper](https://github.com/Azure/azure-sdk-for-python)
 
-### [Balanced](https://www.balancedpayments.com) - Payments for Marketplaces
+### [Balanced](https://www.balancedpayments.com) - Payments for marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
-- [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
+- [Python wrapper](https://github.com/balanced/balanced-python)
 
-### [BigML](https://bigml.com/) - Machine Learning Made Easy
+### [BigML](https://bigml.com/) - Machine learning made easy
 - [API Documentation](https://bigml.com/developers)
-- [Python wrapper for BigML](https://github.com/bigmlcom/python)
+- [Python wrapper](https://github.com/bigmlcom/python)
 
 ### [Bing](https://www.bing.com) - Microsoft search engine
 - [API Documentation](https://www.bing.com/dev/en-us/dev-center)
