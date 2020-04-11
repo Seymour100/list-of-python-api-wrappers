@@ -18,12 +18,12 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper for Amazon.com](https://github.com/alexa/alexa-apis-for-python)
 
-### [Amazon Product API](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Amazon's product catalog
+### [Amazon Product API](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Amazon's product catalog
 - [API Documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html)
 - [Python wrapper](https://github.com/asherAgs/amzSear)
 
 ### [AWS](http://aws.amazon.com) - Cloud computing platform
-- [API Documentation](http://aws.amazon.com/documentation/)
+- [API Documentation](https://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto3)
 
 ### [AWS - Amazon Simple Workflow](http://aws.amazon.com/swf/) - Orchestration service for building scalable distributed applications
@@ -35,7 +35,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [Python wrapper](https://github.com/pastpages/archiveis)
 
 ### [Archive.org](http://archive.org/) - Internet Archive
-- [API Documentation](http://archive.org/help/json.php)
+- [API Documentation](https://archive.org/help/json.php)
 - [Python wrapper for archive.org](https://pypi.python.org/pypi/internetarchive)
 
 ### [Arista EOS](https://www.arista.com/en/products/eos) - Network Operating System
@@ -43,7 +43,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [Python wrapper](https://github.com/arista-eosplus/pyeapi)
 
 ### [ArrayFire](http://arrayfire.com/) -  A general purpose GPU library
-- [API Documentation](http://www.arrayfire.com/docs/index.htm)
+- [API Documentation](https://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
 
 ### [Ascribe](https://www.ascribe.io) - Register and license Intellectual Property
@@ -52,7 +52,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 
 ### [Authorize.net](https://www.authorize.net/) - Payment gateway
 - [API Documentation](https://developer.authorize.net/api/)
-- [Python wrapper](http://authorize-sauce.readthedocs.io/en/latest/)
+- [Python wrapper](https://authorize-sauce.readthedocs.io/en/latest/)
 
 ### [Azure](https://azure.microsoft.com/) - Microsoft cloud computing platform
 - [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
@@ -352,19 +352,19 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](https://mega.co.nz/#developers)
 - [Python wrapper for Mega](https://github.com/juanriaza/python-mega)
 
-### [Mercury](https://mercury.postlight.com/web-parser/) - take any web article and return only the relevant content
+### [Mercury](https://mercury.postlight.com/web-parser/) - Take any web article and return only the relevant content
 - [API Documentation](https://mercury.postlight.com/web-parser/)
 - [Python wrapper](https://github.com/kennethreitz/mercury-parser)
 
 ### [Metwit](http://metwit.com/) - Social and crowdsourced weather
-- [API Documentation](http://metwit.com/weather-api/)
-- [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
+- [API Documentation](https://metwit.com/weather-api/)
+- [Python wrapper for Metwit](https://soup.metwit.com/post/45997437810/python-weather-by-metwit)
 
 ### [MLB GameDay](http://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
 - [API Documentation](http://panzarino.me/mlbgame/)
 - [Python wrapper](https://github.com/zachpanz88/mlbgame)
 
-### [MonkeyLearn](http://www.monkeylearn.com/) - Machine Learning for Text Analysis
+### [MonkeyLearn](http://www.monkeylearn.com/) - Machine learning for text analysis
 - [API Documentation](http://docs.monkeylearn.com/article/api-reference/)
 - [Python wrapper](https://github.com/monkeylearn/monkeylearn-python)
 
@@ -501,14 +501,14 @@ Below you will find a list along with links to their docs and Python wrappers/li
 
 ### [Spotify](https://spotify.com/) - Music streaming service
 - [API Documentation](https://developer.spotify.com/)
-- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/1.2)
+- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/)
 
 ### [Spreedly](https://spreedly.com/) - Cloud based credit card vault
 - [API Documentation](https://core.spreedly.com/manual/quickstart)
 - [Python wrapper for Spreedly](https://github.com/ridgebit/python-spreedly)
 
 ### [Stack Exchange](http://www.stackexchange.com) - Community-Powered Q&A
-- [API Documentation](https://api.stackexchange.com/docs)
+- [API Documentation](https://docs.spreedly.com/reference/api/v1/)
 - [Python wrapper for Stack Exchange](https://pypi.python.org/pypi/stackpy)
 
 ### [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - simple API for text processing tasks
