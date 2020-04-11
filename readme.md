@@ -1,9 +1,14 @@
 # List of Python API Wrappers
 
-Updated 2020-02-07.
+## This list of Python API wrappers is designed to be the most updated anywhere
 
-Below you will find a list along with links to their docs and Python wrappers/libraries. Originally from Real Python -> johnwmiller.
+Below you will find a list along with links to their docs and Python wrappers/libraries. Original forked from [GitHub repos](https://github.com/realpython/list-of-python-api-wrappers) of [Real Python](https://realpython.com) via [johnwmiller](https://github.com/johnwmillr/list-of-python-api-wrappers).
 
+### Last updated by Jeff Hale 2020-04-10.
+
+### Have a new API to add? Great! Please submit a pull request.
+### Found a broken API? Great! Please submit a pull request with it fixed or removed.
+---
 
 ### [Amazon Alexa](http://www.alexa.com/) - Web traffic data
 - [API Documentation](https://github.com/alexa/alexa-apis-for-python)
@@ -21,17 +26,11 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](http://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto3)
 
---- updated through here
-
 ### [AWS - Amazon Simple Workflow](http://aws.amazon.com/swf/) - Orchestration service for building scalable distributed applications
 - [API Documentation](http://aws.amazon.com/documentation/swf/)
 - [Python wrapper for Amazon Simple Workflow](http://github.com/xethorn/garcon)
 
-### [American Fuzzy Lop / AFL](http://lcamtuf.coredump.cx/afl/) - Fuzzer that employs genetic algorithms in order to efficiently increase code coverage of the test cases
-- [API Documentation](http://lcamtuf.coredump.cx/afl/)
-- [Python wrapper](https://github.com/shellphish/fuzzer)
-
-### [Archive.is](http://archive.is/) - time capsule for web pages
+### [Archive.is](http://archive.is/) - Time capsule for web pages
 - [API Documentation](http://mementoweb.org/depot/native/archiveis/)
 - [Python wrapper](https://github.com/pastpages/archiveis)
 
@@ -43,24 +42,19 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](http://aristanetworks.github.io/EosSdk/docs/1.6.0/ref/)
 - [Python wrapper](https://github.com/arista-eosplus/pyeapi)
 
-### [ARK](https://ark.io/) - Blockchain Solutions
-- [API Documentation](https://github.com/Highjhacker/pythark)
-- [Python wrapper](https://github.com/Highjhacker/pythark)
-- [Blog Post](https://blog.ark.io/pythark-python-api-wrapper-for-ark-f90d632a5a0e)
-
-### [ArrayFire](http://arrayfire.com/) - high performance library for parallel computing
+### [ArrayFire](http://arrayfire.com/) -  A general purpose GPU library
 - [API Documentation](http://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
 
-### [Ascribe](https://www.ascribe.io) - Register and License Intellectual Property
+### [Ascribe](https://www.ascribe.io) - Register and license Intellectual Property
 - [API Documentation](http://docs.ascribe.apiary.io)
-- [Python wrapper](https://pypi.python.org/pypi/ascribe/0.0.7.dev1)
+- [Python wrapper](https://pypi.org/project/ascribe/)
 
 ### [Authorize.net](https://www.authorize.net/) - Payment gateway
 - [API Documentation](https://developer.authorize.net/api/)
 - [Python wrapper](http://authorize-sauce.readthedocs.io/en/latest/)
 
-### [Azure](https://azure.microsoft.com/) - Cloud computing platform
+### [Azure](https://azure.microsoft.com/) - Microsoft cloud computing platform
 - [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
 - [Python wrapper](https://github.com/Azure/azure-sdk-for-python)
 
@@ -394,6 +388,10 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [API Documentation](https://newsapi.org/#documentation)
 - [Python wrapper](https://github.com/SlapBot/newsapi)
 
+### [Onfleet](https://onfleet.com/) - Last mile delivery management service
+- [API Documentation](https://docs.onfleet.com/)
+- [Python wrapper](https://github.com/onfleet/pyonfleet)
+
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
 - [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
@@ -433,6 +431,10 @@ Below you will find a list along with links to their docs and Python wrappers/li
 ### [Polar Devices](http://www.polar.com) - Watches and devices
 - [API Documentation](http://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
+
+### [Pybraries](https://pypi.org/project/pybraries/) - Wrapper for the libraries.io API. Get info about open source packages.
+- [API Documentation](https://pypi.org/project/pybraries/)
+- [Python wrapper](https://github.com/pybraries/pybraries)
 
 ### [Rackspace](http://www.rackspace.com/) - Open cloud company
 - [API Documentation](http://docs.rackspace.com/sdks/guide/content/python.html)
