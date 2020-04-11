@@ -9,17 +9,15 @@ Below you will find a list along with links to their docs and Python wrappers/li
 ### Have a new API to add? Great! Please submit a pull request.
 
 ### Found a broken API? Great! Please submit a pull request with it fixed or removed.
----
 
-### [Amazon Alexa](https://www.alexa.com/) - Web traffic data
-- [API Documentation](https://github.com/alexa/alexa-apis-for-python)
-- [Python wrapper](https://github.com/muhuk/python-awis)
+If it has been over three years since there was any development activity for an API wrapper, the chances that it doesn't work great are pretty high. Consequently, we tend to remove those API wrappers.
+---
 
 ### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
 - [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper](https://python-amazon-product-api.readthedocs.io/en/latest/)
 
-## [Amazon Alexa](https://developer.amazon.com/en-US/alexa) - Cloud-based voice service for devices
+### [Amazon Alexa](https://www.alexa.com/) - Cloud-based voice service for devices
 - [API Documentation](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/build-skills-with-the-alexa-skills-kit.html)
 - [Python wrapper](https://github.com/alexa/alexa-apis-for-python)
 
