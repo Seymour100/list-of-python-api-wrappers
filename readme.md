@@ -73,51 +73,47 @@ If it has been over three years since there was any development activity for an 
 
 ### [Bing](https://www.bing.com) - Microsoft search engine
 - [API Documentation](https://www.bing.com/dev/en-us/dev-center)
-- [Python wrapper for Bing search](https://code.google.com/p/pybing/)
+- [Python wrapper](https://code.google.com/p/pybing/)
 
 ### [Bitcoin](https://www.bitcoin.com/) - Open source P2P money
 - [API Documentation](https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)#Python)
-- [Python wrapper for Bitcoin](https://github.com/laanwj/bitcoin-python)
+- [Python wrapper](https://github.com/laanwj/bitcoin-python)
 
 ### [Bitly](https://www.bitly.com/) - URL shortener
 - [API Documentation](https://dev.bitly.com/get_started.html)
-- [Python wrapper for bit.ly](https://github.com/bitly/bitly-api-python)
+- [Python wrapper](https://github.com/bitly/bitly-api-python)
 
 ### [Bitstamp](https://www.bitstamp.net/) - Buy and sell bitcoins
 - [API Documentation](https://www.bitstamp.net/api/)
-- [Python wrapper for Bitstamp](https://github.com/unwitting/bitstampy)
+- [Python wrapper](https://github.com/unwitting/bitstampy)
 
 ### [Blogger](https://blogger.com/) - Blog-publishing service
 - [API Documentation](https://developers.google.com/blogger/)
-- [Python wrapper for Blogger](https://code.google.com/p/python-blogger/)
+- [Python wrapper](https://code.google.com/p/python-blogger/)
 
 ### [Box](https://www.box.com/) - Online file sharing
 - [API Documentation](https://developers.box.com/)
-- [Python wrapper for Box](https://github.com/box/box-python-sdk)
+- [Python wrapper](https://github.com/box/box-python-sdk)
 
 ### [Braintree](https://www.braintreepayments.com/) - Accept Payments Online
 - [API Documentation](https://www.braintreepayments.com/developers)
-- [Python wrapper for Braintree](https://github.com/braintree/braintree_python)
-
-### [Carriots](https://www.carriots.com) - M2M Application Platform
-- [API Documentation](https://www.carriots.com/documentation/api)
-- [Python wrapper for Carriots](https://github.com/sdeancos/clicarriots)
+- [Python wrapper](https://github.com/braintree/braintree_python)
 
 ### [Challonge](https://challonge.com) - Tournament Brackets
 - [API Documentation](https://challonge.com/api)
-- [Python wrapper for Challonge](https://github.com/ZEDGR/pychal)
+- [Python wrapper](https://github.com/ZEDGR/pychal)
 
 ### [Chargify](https://chargify.com) - Recurring billing application
 - [API Documentation](https://docs.chargify.com/api-introduction)
-- [Python wrapper for Chargify](https://github.com/hindsightlabs/chargify-python)
+- [Python wrapper](https://github.com/hindsightlabs/chargify-python)
 
 ### [Close.io](https://close.io) - Sales communication platform
 - [API Documentation](https://developer.close.io)
-- [Python wrapper for Close.io](https://github.com/elasticsales/closeio-api/)
+- [Python wrapper](https://github.com/elasticsales/closeio-api/)
 
 ### [Coinbase](https://www.coinbase.com) - Bitcoin Wallet
 - [API Documentation](https://coinbase.com/api/doc.html)
-- [Python wrapper for Coinbase](https://github.com/sibblegp/coinbase_python)
+- [Python wrapper](https://github.com/sibblegp/coinbase_python)
 
 ### [CoinPayments](https://www.coinpayments.net/) - checkout system for cryptocurrencies
 - [API Documentation](https://www.coinpayments.net/apidoc)
