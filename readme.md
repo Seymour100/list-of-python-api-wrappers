@@ -395,14 +395,10 @@ If it has been over three years since there was any development activity for an 
 
 ### [Pinterest](https://pinterest.com/) - Pinboard-style sharing
 - [API Documentation](https://developers.pinterest.com/)
-- [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
-
-### [Pixoto](https://pixoto.com/) - Online photo sharing platform
-- [API Documentation](https://github.com/daxeel/pypixoto)
-- [Python wrapper for Pixoto](https://github.com/daxeel/pypixoto)
+- [Python wrapper for Pinterest](https://github.com/bryand1/python-pinterest-api)
 
 ### [Phaxio](https://www.phaxio.com/) - Faxing for Developers
-- [API Documentation](https://www.phaxio.com/docs)
+- [API Documentation](https://www.phaxio.com/docs/api/v2.1)
 - [Python wrapper for Phaxio](https://github.com/phaxio)
 
 ### [Phish.AI](https://www.phish.ai/) - Detect zero-day phishing websites
