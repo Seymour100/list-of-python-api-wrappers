@@ -431,11 +431,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
 - [API Documentation](https://www.programmableweb.com/api/rotten-tomatoes)
-- [Python wrapper for Rotten Tomatoes](https://github.com/zachwill/rottentomatoes)
+- [Python wrapper for Rotten Tomatoes](https://github.com/jaebradley/rotten_tomatoes_client)
 
 ### [Salesforce](https://www.salesforce.com/) - Cloud computing company (CRM)
 - [API Documentation](https://www.salesforce.com/us/developer/docs/api/index.htm)
-- [Python wrapper for Salesforce](https://pypi.python.org/pypi/beatbox)
+- [Python wrapper for Salesforce](https://github.com/GearPlug/salesforce-python)
 
 ### [SAS](https://www.sas.com) - business intelligence software
 - [API Documentation](https://sassoftware.github.io/saspy/overview.html)
@@ -446,7 +446,7 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Scaleway](https://github.com/scaleway/python-scaleway)
 
 ### [Scrapinghub](https://scrapinghub.com/) - Scraping services
-- [API Documentation](https://doc.scrapinghub.com/api.html)
+- [API Documentation](https://python-scrapinghub.readthedocs.io/en/latest/client/apidocs.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
 
 ### [Skyscanner](https://www.skyscanner.net/) - Travel metasearch
