@@ -345,12 +345,8 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://www.meetup.com/meetup_api/)
 - [Python wrapper for Meetup Web](https://github.com/pferate/meetup-api)
 
-### [Metwit](https://metwit.com/) - Social and crowdsourced weather
-- [API Documentation](https://metwit.com/weather-api/)
-- [Python wrapper for Metwit](https://soup.metwit.com/post/45997437810/python-weather-by-metwit)
-
 ### [MLB GameDay](https://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
-- [API Documentation](https://panzarino.me/mlbgame/)
+- [API Documentation](https://github.com/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md)
 - [Python wrapper](https://github.com/zachpanz88/mlbgame)
 
 ### [MonkeyLearn](https://www.monkeylearn.com/) - Machine learning for text analysis
