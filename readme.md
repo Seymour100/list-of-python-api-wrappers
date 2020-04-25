@@ -427,7 +427,8 @@ If it has been over three years since there was any development activity for an 
 
 ### [Reddit](https://www.reddit.com/) - Social news aggregation and discussion
 - [API Documentation](https://www.reddit.com/dev/api)
-- [Python wrapper for Reddit](https://github.com/praw-dev/praw/)
+- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/)
+- [Python wrapper #2 - Pushshift](https://github.com/pushshift/api)
 
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
 - [API Documentation](https://www.programmableweb.com/api/rotten-tomatoes)
@@ -460,21 +461,17 @@ If it has been over three years since there was any development activity for an 
 - [Slacker](https://github.com/os/slacker)
 - [Gendo](https://github.com/nficano/gendo)
 
-### [Slideshare](https://www.slideshare.net/) - Slide hosting service
-- [API Documentation](https://www.slideshare.net/developers/documentation)
-- [Python wrapper for slideshare](https://code.google.com/p/pyslideshare/)
-
 ### [SmartFile](https://smartfile.com/) - File management service
 - [API Documentation](https://app.smartfile.com/api/)
 - [Python wrapper for SmartFile](https://github.com/smartfile/client-python)
 
 ### [Socrata Open Data API](https://www.socrata.com/) - Data discovery for government data
-- [API Documentation](https://dev.socrata.com/)
+- [API Documentation](https://dev.socrata.com/docs/endpoints.html)
 - [Python wrapper for Socrata Open Data API](https://github.com/xmunoz/sodapy)
 
 ### [Soundcloud](https://www.soundcloud.com/) - Share your sounds
-- [API Documentation](https://developers.soundcloud.com/)
-- [Python wrapper for Soundcloud](https://github.com/soundcloud/soundcloud-python)
+- [API Documentation](https://developers.soundcloud.com/docs/api/guide#authentication)
+- [Python wrapper for Soundcloud](https://github.com/3jackdaws/soundcloud-lib)
 
 ### [Sportradar](https://developer.sportradar.com/) - Broad range of sports APIs
 - [API Documentation](https://developer.sportradar.com/io-docs)
