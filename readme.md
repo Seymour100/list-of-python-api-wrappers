@@ -189,23 +189,19 @@ If it has been over three years since there was any development activity for an 
 
 ### [Geocodio](https://geocod.io/) - Ridiculously affordable geocoding
 - [API Documentation](https://geocod.io/docs/)
-- [Python wrapper for Geocodio](https://github.com/bennylope/pygeocodio)
-
-### [Geopy](https://code.google.com/p/geopy/wiki/GettingStarted) - Geocoding for Python
-- [API Documentation](https://code.google.com/p/geopy/)
-- [Python wrapper for Geopy](https://code.google.com/p/geopy/)
+- [Python wrapper](https://github.com/bennylope/pygeocodio)
 
 ### [GitHub](https://github.com/) - Online project hosting
 - [API Documentation](https://developer.github.com/)
-- [Python wrapper for GitHub](https://github3py.readthedocs.org/en/latest/)
+- [Python wrapper](https://github3py.readthedocs.org/en/latest/)
 
 ### [GitLab](https://gitlab.com/) - Online and self-hosted Git repository management
 - [API Documentation](https://docs.gitlab.com/ce/api/)
-- [Python wrapper for Gitlab](https://github.com/gpocentek/python-gitlab)
+- [Python wrapper](https://github.com/gpocentek/python-gitlab)
 
 ### [Google Charts](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices.
 - [API Documentation](https://developers.google.com/chart/interactive/docs/)
-- [Python wrapper](https://github.com/Dfenestrator/GooPyCharts)
+- [Python wrapper](https://github.com/gak/pygooglechart)
 
 ### [Google Cloud Functions](https://cloud.google.com/functions/) - Serverless environment to build and connect cloud services
 - [API Documentation](https://cloud.google.com/functions/docs/apis)
@@ -213,11 +209,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Google Maps](https://maps.google.com/) - Web mapping service
 - [API Documentation](https://developers.google.com/maps/)
-- [Python wrapper for Google Maps](https://code.google.com/p/pymaps/)
+- [Python wrapper](https://code.google.com/p/pymaps/)
 
 ### [Google Music](https://music.google.com/) - Google Music
 - [API Documentation](https://unofficial-google-music-api.readthedocs.org/en/latest/)
-- [Python wrapper for Google Music](https://github.com/simon-weber/Unofficial-Google-Music-API)
+- [Python wrapper](https://github.com/simon-weber/Unofficial-Google-Music-API)
 
 ### [Google Search](https://www.google.com/) - Unofficial API for Google Search
 - [API Documentation](https://github.com/aviaryan/python-gsearch)
@@ -229,59 +225,39 @@ If it has been over three years since there was any development activity for an 
 
 ### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online Spreadsheets
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
-- [Python wrapper for Google Spreadsheet](https://github.com/burnash/gspread)
+- [Python wrapper](https://github.com/burnash/gspread)
 
-### [Google Translate](https://translate.google.com/) - Translation Service
-- [API Documentation](https://cloud.google.com/translate/docs)
-- [Python wrapper for Google Translate](https://py-googletrans.readthedocs.org/en/latest/googletrans.html)
-
-### [GoPro](https://gopro.com) - cameras
-- [API Documentation](https://github.com/konradit/gopro-py-api)
+### [GoPro](https://gopro.com) - Cameras
+- [API Documentation](https://goprohero.readthedocs.io/en/latest/API/)
 - [Python wrapper](https://github.com/konradit/gopro-py-api)
 
 ### [Hacker News](https://news.ycombinator.com/) - Social News
 - [API Documentation](https://github.com/HackerNews/API)
-- [Python wrapper for Hacker News](https://github.com/avinassh/haxor/)
+- [Python wrapper](https://github.com/avinassh/haxor/)
 
 ### [Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
 - [API Documentation](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
-- [Python wrapper for Hadoop YARN](https://pypi.python.org/pypi/yarn-api-client)
+- [Python wrapper](https://pypi.python.org/pypi/yarn-api-client)
 
 ### [Heroku](https://www.heroku.com/) - Cloud Application Platform
 - [API Documentation](https://devcenter.heroku.com/articles/platform-api-reference)
-- [Python wrapper for Heroku](https://pypi.python.org/pypi/heroku)
-
-### [Highrise](https://highrisehq.com/) - Contact management tool (CRM)
-- [API Documentation](https://github.com/basecamp/highrise-api)
-- [Python wrapper for Highrise](https://github.com/feedmagnet/pyrise)
-
-### [HipChat](https://www.hipchat.com/) - Hosted group chat and IM
-- [API Documentation](https://www.hipchat.com/docs/api)
-- [Python wrapper for HipChat](https://github.com/dobarkod/hipchat-api)
+- [Python wrapper](https://pypi.python.org/pypi/heroku)
 
 ### [IEX](https://iextrading.com/) - Real-time and historical stock prices
 - [API Documentation](https://iextrading.com/developer/docs)
-- [Python wrapper for IEX](https://github.com/addisonlynch/iexfinance)
-
-### [iFixit](https://www.ifixit.com/) - The free repair manual
-- [API Documentation](https://www.ifixit.com/api/2.0/doc)
-- [Python wrapper for iFixit](https://github.com/xiongchiamiov/pyfixit)
-
-### [iHackernews](https://www.ihackernews.com/) - Hacker News Mobile
-- [API Documentation](https://api.ihackernews.com/)
-- [Python wrapper for iHackerNews](https://github.com/dmpayton/python-ihackernews)
+- [Python wrapper](https://github.com/addisonlynch/iexfinance)
 
 ### [Imgur](https://www.imgur.com/) - Simple Image Sharer
 - [API Documentation](https://api.imgur.com/)
-- [Python wrapper for Imgur](https://github.com/Damgaard/PyImgur)
+- [Python wrapper](https://apidocs.imgur.com/?version=latest)
 
 ### [Indeed](https://www.Indeed.com) - Search engine for jobs
-- [API Documentation](https://www.indeed.com/jsp/apiinfo.jsp)
-- [Python wrapper for indeed.com](https://github.com/fission6/python-indeed)
+- [API Documentation](https://opensource.indeedeng.io/api-documentation/)
+- [Python wrapper](https://github.com/fission6/python-indeed)
 
 ### [Instagram](https://www.instagram.com) - Online photo sharing
-- [API Documentation](https://instagram.com/developer/)
-- [Python wrapper for Instagram](https://github.com/Instagram/python-instagram)
+- [API Documentation](https://developers.facebook.com/docs/instagram-api/)
+- [Python wrapper](https://github.com/Instagram/python-instagram)
 
 ### [Investopedia](https://www.investopedia.com/simulator/) - Stock Simulator
 - [API Documentation](https://www.investopedia.com/simulator/)
@@ -292,16 +268,16 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/IPStreet/PythonSDK)
 
 ### [iTunes Store](https://www.apple.com/itunes/) - Search engine for iTunes content
-- [API Documentation](https://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
-- [Python wrapper for iTunes Store](https://github.com/spaceisstrange/itunespy)
+- [API Documentation](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+- [Python wrapper](https://github.com/spaceisstrange/itunespy)
 
 ### [Jira](https://www.atlassian.com/software/jira) - Issue tracking product
 - [API Documentation](https://jira.readthedocs.io/en/latest/)
-- [Python wrapper for Jira](https://github.com/pycontribs/jira)
+- [Python wrapper](https://github.com/pycontribs/jira)
 
 ### [Kite Connect](https://kite.trade/) - Stock trading APIs
-- [API Documentation](https://kite.trade/docs/connect/v1/)
-- [Python wrapper for Kite Connect](https://github.com/rainmattertech/pykiteconnect)
+- [API Documentation](https://kite.trade/docs/connect/v3/)
+- [Python wrapper](https://github.com/rainmattertech/pykiteconnect)
 
 ### [Last.fm](https://www.last.fm) - Online music
 - [API Documentation](https://www.last.fm/api)
