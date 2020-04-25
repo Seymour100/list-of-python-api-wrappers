@@ -486,8 +486,8 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Spreedly](https://github.com/aplazame/spreedly-sdk)
 
 ### [Stack Exchange](https://www.stackexchange.com) - Community-Powered Q&A
-- [API Documentation](https://docs.spreedly.com/reference/api/v1/)
-- [Python wrapper for Stack Exchange](https://pypi.python.org/pypi/stackpy)
+- [API Documentation](https://api.stackexchange.com/docs)
+- [Python wrapper for Stack Exchange](https://github.com/AWegnerGitHub/stackapi)
 
 ### [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - simple API for text processing tasks
 - [API Documentation](https://stanfordnlp.github.io/CoreNLP/)
@@ -497,10 +497,6 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://stripe.com/docs/api/python)
 - [Python wrapper for Stripe](https://github.com/stripe/stripe-python)
 
-### [SunlightFoundation](https://www.sunlightfoundation.com/) - Sunlight Foundation
-- [API Documentation](https://sunlightfoundation.com/api/)
-- [Python wrapper for Sunlight Foundation](https://python-sunlight.readthedocs.org/en/latest/)
-
 ### [Syncthing](https://syncthing.net/) - Decentralized data sync
 - [API Documentation](https://docs.syncthing.net/dev/rest.html)
 - [Python wrapper for Syncthing](https://github.com/blakev/python-syncthing)
@@ -508,10 +504,6 @@ If it has been over three years since there was any development activity for an 
 ### [Taiga](https://taiga.io/) - Project management
 - [API Documentation](https://taigaio.github.io/taiga-doc/dist/api.html)
 - [Python wrapper](https://github.com/nephila/python-taiga)
-
-### [Technorati](https://technorati.com/) - Searching blogs
-- [API Documentation](https://technorati.com/developers/)
-- [Python wrapper for Technorati](https://www.myelin.co.nz/technorati_py/)
 
 ### [Telegram](https://telegram.org/) - Mobile and desktop messaging app
 - [API Documentation](https://core.telegram.org/bots/api)
