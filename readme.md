@@ -141,15 +141,15 @@ If it has been over three years since there was any development activity for an 
 
 ### [Disqus](https://www.disqus.com/) - Blog comment hosting service
 - [API Documentation](https://disqus.com/api/docs/)
-- [Python Wrapper](https://github.com/disqus/disqus-python)
+- [Python Wrapper](https://github.com/disqus/python-phabricator)
 
 ### [Docker](https://www.docker.com/) - an open platform for distributed applications for developers and sysadmins
 - [API Documentation](https://docker-py.readthedocs.io/en/stable/)
 - [Python Wrapper](https://github.com/docker/docker-py)
 
-### [Dribbble](https://dribbble.com/) - community for showcasing user-made artwork
-- [API Documentation](https://developer.dribbble.com/)
-- [Python Wrapper](https://github.com/Zabanaa/jabbbar)
+### [Dark Ski](https://forecast.io/) - Weather forecasting
+- [API Documentation](https://developer.forecast.io/docs/v2)
+- [Python wrapper](https://github.com/ZeevG/python-forecast.io)
 
 ### [Dropbox](https://www.dropbox.com) - File hosting service
 - [API Documentation](https://www.dropbox.com/developers)
@@ -161,23 +161,15 @@ If it has been over three years since there was any development activity for an 
 
 ### [Ebay](https://www.ebay.com/) - Online auction and shopping
 - [API Documentation](https://developer.ebay.com/common/api/)
-- [Python wrapper](https://github.com/roopeshvaddepally/python-ebay)
-
-### [Embedly](https://embed.ly/) - Front-end developer tools
-- [API Documentation](https://embed.ly/docs/embed/api/endpoints/1/oembed)
-- [Python wrapper](https://github.com/embedly/embedly-python)
+- [Python wrapper](https://github.com/timotheus/ebaysdk-python)
 
 ### [Evernote](https://www.evernote.com/) - Notetaking software
 - [API Documentation](https://dev.evernote.com/doc/)
 - [Python Wrapper](https://github.com/evernote/evernote-sdk-python)
 
-### [Expedia](https://www.expedia.com/) - A travel website
-- [API Documentation](https://developer.expedia.com/directory)
-- [Python Wrapper](https://github.com/NimitS1/expediaRequester)
-
 ### [Facebook](https://www.facebook.com/) - Social networking service
 - [API Documentation](https://developers.facebook.com/)
-- [Python wrapper](https://github.com/sciyoshi/pyfacebook/)
+- [Python wrapper](https://pypi.org/project/python-facebook-api/)
 
 ### [FedEx](https://www.fedex.com/) - Global courier delivery services
 - [API Documentation](https://www.fedex.com/us/developer/)
@@ -185,20 +177,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Flickr](https://www.flickr.com) - Image and Video hosting
 - [API Documentation](https://www.flickr.com/services/api/)
-- [Python wrapper](https://github.com/michaelhelmick/python-flickr)
-- [Python wrapper](https://stuvel.eu/media/flickrapi-docs/documentation/)
-
-### [Forecast](https://forecast.io/) - Weather forecasting
-- [API Documentation](https://developer.forecast.io/docs/v2)
-- [Python wrapper](https://github.com/ZeevG/python-forecast.io)
+- [Python wrapper](https://github.com/alexis-mignon/python-flickr-api)
 
 ### [Foursquare](https://www.foursquare.com/) - Location based networking
 - [API Documentation](https://developer.foursquare.com/)
 - [Python wrapper](https://github.com/mLewisLogic/foursquare)
-
-### [FullContact](https://www.fullcontact.com/) - Manage your contacts
-- [API Documentation](https://www.fullcontact.com/developer/)
-- [Python wrapper](https://github.com/garbados/fullcontact.py)
 
 ### [Genius](https://genius.com/) - Song lyrics and annotations
 - [API Documentation](https://docs.genius.com/)
