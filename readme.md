@@ -343,11 +343,7 @@ If it has been over three years since there was any development activity for an 
 
 ### [Meetup](https://www.meetup.com/) - Offline group meetings
 - [API Documentation](https://www.meetup.com/meetup_api/)
-- [Python wrapper for Meetup Web](https://github.com/meetup/python-api-client)
-
-### [Mercury](https://mercury.postlight.com/web-parser/) - Take any web article and return only the relevant content
-- [API Documentation](https://mercury.postlight.com/web-parser/)
-- [Python wrapper](https://github.com/kennethreitz/mercury-parser)
+- [Python wrapper for Meetup Web](https://github.com/pferate/meetup-api)
 
 ### [Metwit](https://metwit.com/) - Social and crowdsourced weather
 - [API Documentation](https://metwit.com/weather-api/)
