@@ -510,8 +510,8 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ### [Temp Mail](https://temp-mail.ru) - Anonymous emails
-- [API Documentation](https://api.temp-mail.ru/)
-- [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
+- [API Documentation](https://temp-mail.org/en/api/)
+- [Python wrapper for Temp mail](https://github.com/CITGuru/tempmail)
 
 ### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine
 - [API Documentation](https://tesseract-ocr.github.io/)
