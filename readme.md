@@ -336,18 +336,14 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://developer.linkedin.com/apis)
 - [Python wrapper](https://github.com/tomquirk/linkedin-api)
 
-
 ### [Medium](https://medium.com/) - blog publishing platform
 - [API Documentation](https://github.com/enginebai/PyMedium)
-- [Python wrapper](https://github.com/enginebai/PyMedium)
+- [Python wrapper #1](https://github.com/enginebai/PyMedium)
+- [Python wrapper #2](https://github.com/wopify/medium-api-wrapper)
 
 ### [Meetup](https://www.meetup.com/) - Offline group meetings
 - [API Documentation](https://www.meetup.com/meetup_api/)
 - [Python wrapper for Meetup Web](https://github.com/meetup/python-api-client)
-
-### [Mega](https://mega.co.nz) - Free cloud storage
-- [API Documentation](https://mega.co.nz/#developers)
-- [Python wrapper for Mega](https://github.com/juanriaza/python-mega)
 
 ### [Mercury](https://mercury.postlight.com/web-parser/) - Take any web article and return only the relevant content
 - [API Documentation](https://mercury.postlight.com/web-parser/)
