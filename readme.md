@@ -399,7 +399,7 @@ If it has been over three years since there was any development activity for an 
 
 ### [Phaxio](https://www.phaxio.com/) - Faxing for Developers
 - [API Documentation](https://www.phaxio.com/docs/api/v2.1)
-- [Python wrapper for Phaxio](https://github.com/phaxio)
+- [Python wrapper for Phaxio](https://github.com/phaxio/phaxio-python)
 
 ### [Phish.AI](https://www.phish.ai/) - Detect zero-day phishing websites
 - [API Documentation](https://app.phish.ai/#/documentation)
@@ -407,11 +407,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Photobucket](https://photobucket.com/) - Image hosting and video
 - [API Documentation](https://developer.photobucket.com/)
-- [Python wrapper for Photobucket](https://github.com/czpython/python-photobucket)
+- [Python wrapper for Photobucket](https://github.com/stvn1337/PbScraper)
 
 ### [Plot.ly](https://plot.ly/) - Easily analyze data together
 - [API Documentation](https://plot.ly/api/)
-- [Python wrapper for Plot.ly](https://plot.ly/api/python/)
+- [Python wrapper for Plot.ly](https://github.com/plotly/plotly.py)
 
 ### [Polar Devices](https://www.polar.com) - Watches and devices
 - [API Documentation](https://developer.polar.com/wiki/AccessLink)
@@ -422,7 +422,7 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/pybraries/pybraries)
 
 ### [Rackspace](https://www.rackspace.com/) - Open cloud company
-- [API Documentation](https://docs.rackspace.com/sdks/guide/content/python.html)
+- [API Documentation](https://developer.rackspace.com/docs/cloud-servers/v2/)
 - [Python wrapper for the Rackspace Cloud](https://github.com/rackspace/pyrax)
 
 ### [Reddit](https://www.reddit.com/) - Social news aggregation and discussion
@@ -430,7 +430,7 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Reddit](https://github.com/praw-dev/praw/)
 
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
-- [API Documentation](https://developer.rottentomatoes.com/)
+- [API Documentation](https://www.programmableweb.com/api/rotten-tomatoes)
 - [Python wrapper for Rotten Tomatoes](https://github.com/zachwill/rottentomatoes)
 
 ### [Salesforce](https://www.salesforce.com/) - Cloud computing company (CRM)
