@@ -330,12 +330,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [LightGBM](https://github.com/Microsoft/LightGBM) - gradient boosting framework by Microsoft
 - [API Documentation](https://github.com/Microsoft/LightGBM)
-- [Python wrapper](https://github.com/ArdalanM/pyLightGBM)
+- [Python wrapper](https://lightgbm.readthedocs.io/en/latest/Python-API.html)
 
 ### [LinkedIn](https://linkedin.com/) - Professional Social Network
 - [API Documentation](https://developer.linkedin.com/apis)
-- [Python wrapper #1](https://github.com/ozgur/python-linkedin)
-- [Python wrapper #2](https://github.com/michaelhelmick/linkedin)
+- [Python wrapper](https://github.com/tomquirk/linkedin-api)
 
 ### [Loggly](https://loggly.com/) - Cloud-based logging
 - [API Documentation](https://loggly.com/support/advanced/extending-loggly)
