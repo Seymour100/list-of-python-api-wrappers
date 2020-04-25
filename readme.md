@@ -479,11 +479,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Spotify](https://spotify.com/) - Music streaming service
 - [API Documentation](https://developer.spotify.com/)
-- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/)
+- [Python wrapper for Spotify](https://github.com/plamere/spotipy)
 
 ### [Spreedly](https://spreedly.com/) - Cloud based credit card vault
-- [API Documentation](https://core.spreedly.com/manual/quickstart)
-- [Python wrapper for Spreedly](https://github.com/ridgebit/python-spreedly)
+- [API Documentation](https://docs.spreedly.com/reference/api/v1/)
+- [Python wrapper for Spreedly](https://github.com/aplazame/spreedly-sdk)
 
 ### [Stack Exchange](https://www.stackexchange.com) - Community-Powered Q&A
 - [API Documentation](https://docs.spreedly.com/reference/api/v1/)
