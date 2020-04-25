@@ -358,8 +358,8 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Musixmatch](https://github.com/hudsonbrendon/python-musixmatch)
 
 ### [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration
-- [API Documentation](https://data.nasa.gov/developer)
-- [Python wrapper for NASA](https://github.com/emirozer/bowshock)
+- [API Documentation](https://api.nasa.gov/)
+- [Python wrapper for NASA](https://github.com/nasa/RtRetrievalFramework)
 
 ### [Netflix](https://www.netflix.com/) - On-demand streaming media
 - [API Documentation](https://developer.netflix.com/)
@@ -370,12 +370,12 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/tizz98/netflix_roulette)
 
 ### [New York Times Archive API](https://developer.nytimes.com/archive_api.json) - The Archive API provides JSON lists of articles by month
-- [API Documentation](https://developer.nytimes.com/archive_api.json)
-- [Python wrapper](https://github.com/davidcox143/nytimesarchive)
+- [API Documentation](https://developer.nytimes.com/apis)
+- [Python wrapper](https://github.com/suewoon/nyt-api-wrapper)
 
 ### [News API](https://newsapi.org/) - JSON API for live news and blog headlines
 - [API Documentation](https://newsapi.org/#documentation)
-- [Python wrapper](https://github.com/SlapBot/newsapi)
+- [Python wrapper](https://github.com/mattlisiv/newsapi-python)
 
 ### [Onfleet](https://onfleet.com/) - Last mile delivery management service
 - [API Documentation](https://docs.onfleet.com/)
@@ -383,7 +383,7 @@ If it has been over three years since there was any development activity for an 
 
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
-- [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
+- [Python wrapper for OneTimeSecret](https://github.com/onetimesecret/onetimesecret)
 
 ### [OpenWeatherMap](https://openweathermap.org/) - Weather Service
 - [API Documentation](https://openweathermap.org/api)
