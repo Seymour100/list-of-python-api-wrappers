@@ -336,9 +336,6 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://developer.linkedin.com/apis)
 - [Python wrapper](https://github.com/tomquirk/linkedin-api)
 
-### [Loggly](https://loggly.com/) - Cloud-based logging
-- [API Documentation](https://loggly.com/support/advanced/extending-loggly)
-- [Python wrapper for Loggly](https://github.com/loggly/hoover)
 
 ### [Medium](https://medium.com/) - blog publishing platform
 - [API Documentation](https://github.com/enginebai/PyMedium)
