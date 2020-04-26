@@ -622,8 +622,7 @@ Info Date   | 2014/12/21
 
 ### [Wikipedia](https://www.wikipedia.org/) - Wikipedia
 - [API Documentation](https://www.mediawiki.org/wiki/API)
-- [Python wrapper 1](https://github.com/goldsmith/Wikipedia)
-- [Python wrapper 2](https://github.com/martin-majlis/Wikipedia-API/)
+- [Python wrapper](https://github.com/martin-majlis/Wikipedia-API/)
 
 ### [Windows Azure](https://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](https://www.windowsazure.com/en-us/develop/python/)
@@ -631,39 +630,32 @@ Info Date   | 2014/12/21
 
 ### [World Bank](https://data.worldbank.org/indicator) - Collection of development indicators
 - [API Documentation](https://wbpy.readthedocs.org/en/latest/)
-- [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
+- [Python wrapper for World Bank](https://github.com/dpfens/World-Bank-Python)
 
 ### [World Weather](https://www.worldweatheronline.com/) - Weather Service
 - [API Documentation](https://developer.worldweatheronline.com)
-- [Python wrapper for World Weather](https://github.com/WorldWeatherOnline/pywwo)
+- [Python wrapper for World Weather](https://github.com/ekapope/WorldWeatherOnline)
 
 ### [WooCommerce](https://www.woothemes.com/woocommerce/) - Ecommerce
 - [API Documentation](https://docs.woothemes.com/document/woocommerce-rest-api/)
 - [Python wrapper for WooCommerce](https://github.com/woothemes/wc-api-python)
-
-### [Wordnik](https://www.wordnik.com) - Online dictionary
-- [API Documentation](https://developer.wordnik.com)
-- [Python wrapper for Wordnik](https://github.com/wordnik/wordnik-python)
 
 ### [Wunderlist](https://www.wunderlist.com/) - Task Management Application
 - [API Documentation](https://developer.wunderlist.com/documentation)
 - [Python wrapper](https://github.com/mieubrisse/wunderpy2)
 
 ### [Yahoo](https://www.yahoo.com) - Web portal, search engine
-- [API Documentation](https://developer.yahoo.com/python/python-rest.html)
+- [API Documentation](https://github.com/cttn/Stockex)
 - [Python wrapper for Yahoo](https://code.google.com/p/python-weather-api/)
-
-### [Yahoo Query Language](https://developer.yahoo.com/yql) - SQL-like query language
-- [API Documentation](https://developer.yahoo.com/yql/guide/)
-- [Python wrapper for Yahoo Query Language](https://myql.readthedocs.org/en/latest/)
 
 ### [Yelp](https://www.yelp.com) - Local search website
 - [API Documentation](https://www.yelp.com/developers/documentation)
-- [Python wrapper for Yelp](https://github.com/mathisonian/python-yelp-v2)
+- [Python wrapper for Yelp](https://github.com/Yelp/yelp-python)
 
 ### [You Need a Budget (YNAB)](https://www.youneedabudget.com/) - Personal budgeting software
-- [Python wrapper for YNAB](https://github.com/aldanor/pynab)
+- [API documentation](https://api.youneedabudget.com/)
+- [Python wrapper for YNAB](https://github.com/deanmcgregor/ynab-python)
 
 ### [YouTube](https://www.youtube.com) - Video-sharing website
 - [API Documentation](https://developers.google.com/youtube/)
-- [Python wrapper for YouTube](https://pypi.python.org/pypi/youtube-api-wrapper/0.2)
+- [Python wrapper for YouTube](https://github.com/rohitkhatri/youtube-python)
