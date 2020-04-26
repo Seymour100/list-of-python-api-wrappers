@@ -285,39 +285,23 @@ If it has been over three years since there was any development activity for an 
 
 ### [LightGBM](https://github.com/Microsoft/LightGBM) - gradient boosting framework by Microsoft
 - [API Documentation](https://github.com/Microsoft/LightGBM)
-- [Python wrapper](https://github.com/ArdalanM/pyLightGBM)
+- [Python wrapper](https://lightgbm.readthedocs.io/en/latest/Python-API.html)
 
 ### [LinkedIn](https://linkedin.com/) - Professional Social Network
 - [API Documentation](https://developer.linkedin.com/apis)
-- [Python wrapper #1](https://github.com/ozgur/python-linkedin)
-- [Python wrapper #2](https://github.com/michaelhelmick/linkedin)
-
-### [Loggly](https://loggly.com/) - Cloud-based logging
-- [API Documentation](https://loggly.com/support/advanced/extending-loggly)
-- [Python wrapper for Loggly](https://github.com/loggly/hoover)
+- [Python wrapper](https://github.com/tomquirk/linkedin-api)
 
 ### [Medium](https://medium.com/) - blog publishing platform
 - [API Documentation](https://github.com/enginebai/PyMedium)
-- [Python wrapper](https://github.com/enginebai/PyMedium)
+- [Python wrapper #1](https://github.com/enginebai/PyMedium)
+- [Python wrapper #2](https://github.com/wopify/medium-api-wrapper)
 
 ### [Meetup](https://www.meetup.com/) - Offline group meetings
 - [API Documentation](https://www.meetup.com/meetup_api/)
-- [Python wrapper for Meetup Web](https://github.com/meetup/python-api-client)
-
-### [Mega](https://mega.co.nz) - Free cloud storage
-- [API Documentation](https://mega.co.nz/#developers)
-- [Python wrapper for Mega](https://github.com/juanriaza/python-mega)
-
-### [Mercury](https://mercury.postlight.com/web-parser/) - Take any web article and return only the relevant content
-- [API Documentation](https://mercury.postlight.com/web-parser/)
-- [Python wrapper](https://github.com/kennethreitz/mercury-parser)
-
-### [Metwit](https://metwit.com/) - Social and crowdsourced weather
-- [API Documentation](https://metwit.com/weather-api/)
-- [Python wrapper for Metwit](https://soup.metwit.com/post/45997437810/python-weather-by-metwit)
+- [Python wrapper for Meetup Web](https://github.com/pferate/meetup-api)
 
 ### [MLB GameDay](https://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
-- [API Documentation](https://panzarino.me/mlbgame/)
+- [API Documentation](https://github.com/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md)
 - [Python wrapper](https://github.com/zachpanz88/mlbgame)
 
 ### [MonkeyLearn](https://www.monkeylearn.com/) - Machine learning for text analysis
@@ -329,8 +313,8 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Musixmatch](https://github.com/hudsonbrendon/python-musixmatch)
 
 ### [NASA](https://www.nasa.gov/) - National Aeronautics and Space Administration
-- [API Documentation](https://data.nasa.gov/developer)
-- [Python wrapper for NASA](https://github.com/emirozer/bowshock)
+- [API Documentation](https://api.nasa.gov/)
+- [Python wrapper for NASA](https://github.com/nasa/RtRetrievalFramework)
 
 ### [Netflix](https://www.netflix.com/) - On-demand streaming media
 - [API Documentation](https://developer.netflix.com/)
@@ -341,12 +325,12 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/tizz98/netflix_roulette)
 
 ### [New York Times Archive API](https://developer.nytimes.com/archive_api.json) - The Archive API provides JSON lists of articles by month
-- [API Documentation](https://developer.nytimes.com/archive_api.json)
-- [Python wrapper](https://github.com/davidcox143/nytimesarchive)
+- [API Documentation](https://developer.nytimes.com/apis)
+- [Python wrapper](https://github.com/suewoon/nyt-api-wrapper)
 
 ### [News API](https://newsapi.org/) - JSON API for live news and blog headlines
 - [API Documentation](https://newsapi.org/#documentation)
-- [Python wrapper](https://github.com/SlapBot/newsapi)
+- [Python wrapper](https://github.com/mattlisiv/newsapi-python)
 
 ### [Onfleet](https://onfleet.com/) - Last mile delivery management service
 - [API Documentation](https://docs.onfleet.com/)
@@ -354,7 +338,7 @@ If it has been over three years since there was any development activity for an 
 
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
-- [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
+- [Python wrapper for OneTimeSecret](https://github.com/onetimesecret/onetimesecret)
 
 ### [OpenWeatherMap](https://openweathermap.org/) - Weather Service
 - [API Documentation](https://openweathermap.org/api)
@@ -366,15 +350,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Pinterest](https://pinterest.com/) - Pinboard-style sharing
 - [API Documentation](https://developers.pinterest.com/)
-- [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
-
-### [Pixoto](https://pixoto.com/) - Online photo sharing platform
-- [API Documentation](https://github.com/daxeel/pypixoto)
-- [Python wrapper for Pixoto](https://github.com/daxeel/pypixoto)
+- [Python wrapper for Pinterest](https://github.com/bryand1/python-pinterest-api)
 
 ### [Phaxio](https://www.phaxio.com/) - Faxing for Developers
-- [API Documentation](https://www.phaxio.com/docs)
-- [Python wrapper for Phaxio](https://github.com/phaxio)
+- [API Documentation](https://www.phaxio.com/docs/api/v2.1)
+- [Python wrapper for Phaxio](https://github.com/phaxio/phaxio-python)
 
 ### [Phish.AI](https://www.phish.ai/) - Detect zero-day phishing websites
 - [API Documentation](https://app.phish.ai/#/documentation)
@@ -382,11 +362,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [Photobucket](https://photobucket.com/) - Image hosting and video
 - [API Documentation](https://developer.photobucket.com/)
-- [Python wrapper for Photobucket](https://github.com/czpython/python-photobucket)
+- [Python wrapper for Photobucket](https://github.com/stvn1337/PbScraper)
 
 ### [Plot.ly](https://plot.ly/) - Easily analyze data together
 - [API Documentation](https://plot.ly/api/)
-- [Python wrapper for Plot.ly](https://plot.ly/api/python/)
+- [Python wrapper for Plot.ly](https://github.com/plotly/plotly.py)
 
 ### [Polar Devices](https://www.polar.com) - Watches and devices
 - [API Documentation](https://developer.polar.com/wiki/AccessLink)
@@ -397,20 +377,21 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper](https://github.com/pybraries/pybraries)
 
 ### [Rackspace](https://www.rackspace.com/) - Open cloud company
-- [API Documentation](https://docs.rackspace.com/sdks/guide/content/python.html)
+- [API Documentation](https://developer.rackspace.com/docs/cloud-servers/v2/)
 - [Python wrapper for the Rackspace Cloud](https://github.com/rackspace/pyrax)
 
 ### [Reddit](https://www.reddit.com/) - Social news aggregation and discussion
 - [API Documentation](https://www.reddit.com/dev/api)
-- [Python wrapper for Reddit](https://github.com/praw-dev/praw/)
+- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/)
+- [Python wrapper #2 - Pushshift](https://github.com/pushshift/api)
 
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
-- [API Documentation](https://developer.rottentomatoes.com/)
-- [Python wrapper for Rotten Tomatoes](https://github.com/zachwill/rottentomatoes)
+- [API Documentation](https://www.programmableweb.com/api/rotten-tomatoes)
+- [Python wrapper for Rotten Tomatoes](https://github.com/jaebradley/rotten_tomatoes_client)
 
 ### [Salesforce](https://www.salesforce.com/) - Cloud computing company (CRM)
 - [API Documentation](https://www.salesforce.com/us/developer/docs/api/index.htm)
-- [Python wrapper for Salesforce](https://pypi.python.org/pypi/beatbox)
+- [Python wrapper for Salesforce](https://github.com/GearPlug/salesforce-python)
 
 ### [SAS](https://www.sas.com) - business intelligence software
 - [API Documentation](https://sassoftware.github.io/saspy/overview.html)
@@ -421,7 +402,7 @@ If it has been over three years since there was any development activity for an 
 - [Python wrapper for Scaleway](https://github.com/scaleway/python-scaleway)
 
 ### [Scrapinghub](https://scrapinghub.com/) - Scraping services
-- [API Documentation](https://doc.scrapinghub.com/api.html)
+- [API Documentation](https://python-scrapinghub.readthedocs.io/en/latest/client/apidocs.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
 
 ### [Skyscanner](https://www.skyscanner.net/) - Travel metasearch
@@ -435,21 +416,17 @@ If it has been over three years since there was any development activity for an 
 - [Slacker](https://github.com/os/slacker)
 - [Gendo](https://github.com/nficano/gendo)
 
-### [Slideshare](https://www.slideshare.net/) - Slide hosting service
-- [API Documentation](https://www.slideshare.net/developers/documentation)
-- [Python wrapper for slideshare](https://code.google.com/p/pyslideshare/)
-
 ### [SmartFile](https://smartfile.com/) - File management service
 - [API Documentation](https://app.smartfile.com/api/)
 - [Python wrapper for SmartFile](https://github.com/smartfile/client-python)
 
 ### [Socrata Open Data API](https://www.socrata.com/) - Data discovery for government data
-- [API Documentation](https://dev.socrata.com/)
+- [API Documentation](https://dev.socrata.com/docs/endpoints.html)
 - [Python wrapper for Socrata Open Data API](https://github.com/xmunoz/sodapy)
 
 ### [Soundcloud](https://www.soundcloud.com/) - Share your sounds
-- [API Documentation](https://developers.soundcloud.com/)
-- [Python wrapper for Soundcloud](https://github.com/soundcloud/soundcloud-python)
+- [API Documentation](https://developers.soundcloud.com/docs/api/guide#authentication)
+- [Python wrapper for Soundcloud](https://github.com/3jackdaws/soundcloud-lib)
 
 ### [Sportradar](https://developer.sportradar.com/) - Broad range of sports APIs
 - [API Documentation](https://developer.sportradar.com/io-docs)
@@ -457,15 +434,15 @@ If it has been over three years since there was any development activity for an 
 
 ### [Spotify](https://spotify.com/) - Music streaming service
 - [API Documentation](https://developer.spotify.com/)
-- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/)
+- [Python wrapper for Spotify](https://github.com/plamere/spotipy)
 
 ### [Spreedly](https://spreedly.com/) - Cloud based credit card vault
-- [API Documentation](https://core.spreedly.com/manual/quickstart)
-- [Python wrapper for Spreedly](https://github.com/ridgebit/python-spreedly)
+- [API Documentation](https://docs.spreedly.com/reference/api/v1/)
+- [Python wrapper for Spreedly](https://github.com/aplazame/spreedly-sdk)
 
 ### [Stack Exchange](https://www.stackexchange.com) - Community-Powered Q&A
-- [API Documentation](https://docs.spreedly.com/reference/api/v1/)
-- [Python wrapper for Stack Exchange](https://pypi.python.org/pypi/stackpy)
+- [API Documentation](https://api.stackexchange.com/docs)
+- [Python wrapper for Stack Exchange](https://github.com/AWegnerGitHub/stackapi)
 
 ### [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - simple API for text processing tasks
 - [API Documentation](https://stanfordnlp.github.io/CoreNLP/)
@@ -475,10 +452,6 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://stripe.com/docs/api/python)
 - [Python wrapper for Stripe](https://github.com/stripe/stripe-python)
 
-### [SunlightFoundation](https://www.sunlightfoundation.com/) - Sunlight Foundation
-- [API Documentation](https://sunlightfoundation.com/api/)
-- [Python wrapper for Sunlight Foundation](https://python-sunlight.readthedocs.org/en/latest/)
-
 ### [Syncthing](https://syncthing.net/) - Decentralized data sync
 - [API Documentation](https://docs.syncthing.net/dev/rest.html)
 - [Python wrapper for Syncthing](https://github.com/blakev/python-syncthing)
@@ -487,168 +460,37 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://taigaio.github.io/taiga-doc/dist/api.html)
 - [Python wrapper](https://github.com/nephila/python-taiga)
 
-### [Technorati](https://technorati.com/) - Searching blogs
-- [API Documentation](https://technorati.com/developers/)
-- [Python wrapper for Technorati](https://www.myelin.co.nz/technorati_py/)
-
 ### [Telegram](https://telegram.org/) - Mobile and desktop messaging app
 - [API Documentation](https://core.telegram.org/bots/api)
 - [Python wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
 
 ### [Temp Mail](https://temp-mail.ru) - Anonymous emails
-- [API Documentation](https://api.temp-mail.ru/)
-- [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
+- [API Documentation](https://temp-mail.org/en/api/)
+- [Python wrapper](https://github.com/CITGuru/tempmail)
 
 ### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine
 - [API Documentation](https://tesseract-ocr.github.io/)
 - [Python wrapper](https://github.com/sirfz/tesserocr)
 
-### [The Echo Nest](https://echonest.com) - Music services
-- [API Documentation](https://developer.echonest.com/client_libraries.html)
-- [Python Wrapper for Echo Nest](https://github.com/echonest/pyechonest)
-
 ### [The Pirate Bay](https://thepiratebay.sx/) - Peer-to-peer file sharing
-- [API Documentation](https://github.com/thekarangoel/TPB)
-- [Python wrapper for TPB](https://github.com/thekarangoel/TPB)
+- [API Documentation](https://rapidapi.com/volodimir.kudriachenko/api/ThePirateBay)
+- [Python wrapper](https://github.com/appi147/thepiratebay)
 
 ### [The Movie Database](https://www.themoviedb.org) - Movie and TV Database
-
-#### Official Site
-- [API Documentation](https://docs.themoviedb.apiary.io)
-- [List of wrappers](https://www.themoviedb.org/documentation/api/wrappers-libraries)
-
-#### There are a bunch of wrappers for The Movie Database.
-
-Here are observations on some of them from:
-
-#### Wrappers
-
-##### easytmdb 0.2.0 : Python Package Index
-to          |   click
-------------|---------------
-Source Code | https://github.com/benregn/easytmdb
-PyPI Page   | https://pypi.python.org/pypi/easytmdb/0.2.0
-Py Support  |
-Last Update |
-Info Date   | 2014/09/07
-
-**Observations and notes:**
-
- + **2014/09/07:**
-   - based on tmdbsimple, with implementation changes (meanwhile already present in tmdbsimple)
-
-##### themoviedb themoviedb.org wrapper for api v3
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/10/17
-
-**Observations and notes:**
-
- + **2014/10/17:**
-   - supports API v3
-   - only movie search api is implemented.
-
-##### themoviedb Python wrapper to themoviedb.org API
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb_oldapi
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/10/17
-
-**Observations and notes:**
-
- + **2014/10/17:**
-   - deprecated
-
-##### themoviedb  Python wrapper to themoviedb.org API
-to          |   click
-------------|---------------
-Source Code | https://github.com/dbr/themoviedb
-PyPI Page   |
-Py Support  | v. 2.6, v. 2.7, v. 3.3
-Last Update | 2013/05/31
-Info Date   | 2014/09/07
-
-##### TheMovieDB.bundle
-to          |   click
-------------|---------------
-Source Code | https://github.com/plexinc-agents/TheMovieDB.bundle
-PyPI Page   |
-Py Support  |
-Last Update | 2014/07/27
-Info Date   | 2014/09/07
-
-##### [themoviedb-json] Unofficial themoviedb.org python api wrapper
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb-json
-PyPI Page   |
-Last Update |
-Info Date   | 2014/09/07
-
-##### [tmdb] Python Package Index
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tmdb/1.0b
-Py Support  | v.2.7, v.3
-Last Update | version 1.0b
-Info Date   | 2014/09/07
-
-**Observations and notes:**
- + **(2014/09/07)**
-   - deprecated
-
-##### TMDB Small application using TMDB APIs
-to          |   click
-------------|---------------
-Source Code | https://github.com/codershoder/TMDB
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/09/07
-
-##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
-to          |   click
-------------|---------------
-Source Code | https://github.com/celiao/tmdbsimple
-PyPI Page   | https://pypi.python.org/pypi/tmdbsimple
-Py Support  |
-Last Update | version 1.0.0 (2014/09/22)
-Info Date   | 2014/09/07
-
-**Observations and notes:**
-
- + **2014/09/07:**
-   - simply maps API endpoints to Python functions
-   - supports v.3 of the API and the new Search/Multi endpoint
-
-##### [tmdb3] 0.7.0 : Python Package Index
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tmdb3
-Py Support  |
-Last Update | version 0.7.0 (?/?/?)
-Info Date   | 2014/09/07
+- [API Documentation](https://www.themoviedb.org/documentation/api)
+- [Python wrapper](https://github.com/celiao/tmdbsimple)
 
 ### [TinyURL](https://www.tinyurl.com) - URL Shortner
-- [API Documentation](https://github.com/daxeel/TinyURL-Python)
-- [Python wrapper](https://github.com/daxeel/TinyURL-Python)
+- [API Documentation](http://tiny-url.info/open_api.html)
+- [Python wrapper](https://github.com/IzunaDevs/TinyURL)
 
 ### [Trello](https://trello.com/) - Kanban boards
 - [API Documentation](https://trello.com/docs/index.html)
-- [Python wrapper for Trello](https://github.com/sarumont/py-trello)
+- [Python wrapper](https://github.com/sarumont/py-trello)
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](https://corporate.tuenti.com/en/dev)
-- [Python wrapper for Tuenti](https://github.com/juanriaza/python-tuenti)
+- [Python wrapper for Tuenti](https://github.com/mgp25/Tuenti-API)
 
 ### [Tumblr](https://www.tumblr.com) - Microblogging platform
 - [API Documentation](https://www.tumblr.com/docs/en/api/v2)
@@ -661,81 +503,6 @@ Info Date   | 2014/09/07
 - [API Documentation](https://www.thetvdb.com/wiki/index.php/Programmers_API)
 
 #### Wrappers
-
-##### gnarlytvdb: A python interface to thetvdb.com xml api
-to          |   click
-------------|---------------
-Source Code | https://github.com/steinitzu/gnarly-tvdb
-PyPI Page   | https://pypi.python.org/pypi/gnarlytvdb/0.6
-Py Support  |
-Last Update | version 0.6 (2013/01/29)
-Info Date   | 2014/12/20
-
-**Observations and notes:**
-
- + **2014/12/20:**
-   - Does not implement actors and banners API
-
-
-##### pytvdb: A python library for interacting with TheTVDB.com API
-to          |   click
-------------|---------------
-Source Code | https://bitbucket.org/arshsingh/pytvdb
-PyPI Page   |
-Py Support  |
-Last Update | (2014/08/19)
-Info Date   | 2014/12/20
-
-
-##### PyTVDB: a Python module for the thetvdb.com API
-to          |   click
-------------|---------------
-Source Code | https://github.com/elderhsouza/PyTVDB
-PyPI Page   |
-Py Support  |
-Last Update | (2014/03/13)
-Info Date   | 2014/12/20
-
-
-##### pytvdbapi: A clean, resource friendly and easy to use API for thetvdb.com
-to          |   click
-------------|---------------
-Source Code | https://github.com/fuzzycode/pytvdbapi
-PyPI Page   | https://pypi.python.org/pypi/pytvdbapi/0.5.0
-Py Support  | v.2.6, v.2.7, v.3.3 and v.3.4
-Last Update | version 0.5.0 (2014/10/28)
-Info Date   | 2014/12/20
-
-
-##### thetvdb_api: A Python API for theTVDB.
-to          |   click
-------------|---------------
-Source Code | https://bitbucket.org/Julien-D/thetvdb_api
-PyPI Page   | https://pypi.python.org/pypi/thetvdb_api/0.3.1
-Py Support  | v.2.7, v.3.2
-Last Update | version 0.3.1 (2014/02/10)
-Info Date   | 2014/12/20
-
-
-##### tvdb: Module for accessing the Web API at TheTVDB.com
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tvdb/0.22
-Py Support  |
-Last Update | version 0.22 (2009/02/20)
-Info Date   | 2014/12/20
-
-
-##### TVDB Caching API
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://bitbucket.org/robdennis/tvdb-caching-api
-Py Support  |
-Last Update | (2012/06/26)
-Info Date   | 2014/12/21
-
 
 ##### dbr/tvdb_api: Interface to thetvdb.com
 to          |   click
@@ -756,36 +523,20 @@ Py Support  |
 Last Update | (2012/11/07)
 Info Date   | 2014/12/21
 
-**Observations and notes:**
-
- + **2014/12/21:**
-   - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recomended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
-
-##### tvdbpy: Yet another TvDB API Python wrapper. Work in progress.
-to          |   click
-------------|---------------
-Source Code | https://github.com/matiasb/tvdbpy
-PyPI Page   |
-Py Support  |
-Last Update | (2014/02/16)
-Info Date   | 2014/12/20
-
-
-
 ### [Twilio](https://twilio.com/) - SMS and Voice through the cloud
 - [API Documentation](https://www.twilio.com/docs/python/install)
 - [Python wrapper for Twilio](https://github.com/twilio/twilio-python/)
 
 ### [Twitter](https://twitter.com/) - Online microblogging service
-- [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
+- [API Documentation](https://developer.twitter.com/en/docs)
 - [Python wrapper #1](https://github.com/bear/python-twitter/) - python-twitter
 - [Python wrapper #2](https://github.com/ryanmcgrath/twython) - Twython
 - [Python wrapper #3](https://github.com/inueni/birdy) - birdy
 - [Python wrapper #4](https://github.com/tweepy/tweepy) - tweepy
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
-- [API Documentation](https://developer.uber.com/v1/endpoints/)
-- [Python wrapper for Uber](https://github.com/vivangkumar/uberpy)
+- [API Documentation](https://developer.uber.com/docs)
+- [Python wrapper for Uber](https://github.com/uber/rides-python-sdk)
 
 ### [Udacity](https://www.udacity.com) - Online University
 - [API Documentation](https://www.udacity.com/catalog-api)
@@ -793,11 +544,7 @@ Info Date   | 2014/12/20
 
 ### [Udemy](https://www.udemy.com) - Online University
 - [API Documentation](https://www.udemy.com/developers/)
-- [Python wrapper for Udemy](https://github.com/hudsonbrendon/pyudemy)
-
-### [Unirest](https://unirest.io/) - Set of lightweight HTTP libraries
-- [API Documentation](https://unirest.io/#python)
-- [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
+- [Python wrapper for Udemy](https://github.com/udacity/PYND)
 
 ### [UPS](https://www.ups.com) - Package Delivery
 - [API Documentation](https://www.ups.com/upsdeveloperkit)
@@ -808,12 +555,12 @@ Info Date   | 2014/12/20
 - [Python wrapper for Urban Dictionary](https://github.com/novel/py-urbandict)
 
 ### [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
-- [API Documentation](https://www.vaultproject.io/docs/http/index.html)
+- [API Documentation](https://www.vaultproject.io/api-docs)
 - [Python wrapper for Vault](https://github.com/ianunruh/hvac)
 
 ### [Vimeo](https://vimeo.com/) - Video-sharing website
-- [API Documentation](https://developer.vimeo.com/apis/)
-- [Python wrapper for Vimeo](https://github.com/rkumarnirmal/python-vimeo)
+- [API Documentation](https://developer.vimeo.com/)
+- [Python wrapper for Vimeo](https://github.com/vimeo/vimeo.py)
 
 ### [VK](https://vk.com/) - Social networking service
 - [API Documentation](https://vk.com/dev/methods)
@@ -825,13 +572,12 @@ Info Date   | 2014/12/20
 - [Python wrapper](https://github.com/caroso1222/wapy)
 
 ### [WhatsApp](https://www.whatsapp.com/) -  Mobile and desktop messaging app
-- ~~API Documentation~~
+- [API documentation](https://developers.facebook.com/docs/whatsapp/api/reference/)
 - [Python wrapper](https://github.com/tgalal/yowsup)
 
 ### [Wikipedia](https://www.wikipedia.org/) - Wikipedia
 - [API Documentation](https://www.mediawiki.org/wiki/API)
-- [Python wrapper 1](https://github.com/goldsmith/Wikipedia)
-- [Python wrapper 2](https://github.com/martin-majlis/Wikipedia-API/)
+- [Python wrapper](https://github.com/martin-majlis/Wikipedia-API/)
 
 ### [Windows Azure](https://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](https://www.windowsazure.com/en-us/develop/python/)
@@ -839,39 +585,32 @@ Info Date   | 2014/12/20
 
 ### [World Bank](https://data.worldbank.org/indicator) - Collection of development indicators
 - [API Documentation](https://wbpy.readthedocs.org/en/latest/)
-- [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
+- [Python wrapper for World Bank](https://github.com/dpfens/World-Bank-Python)
 
 ### [World Weather](https://www.worldweatheronline.com/) - Weather Service
 - [API Documentation](https://developer.worldweatheronline.com)
-- [Python wrapper for World Weather](https://github.com/WorldWeatherOnline/pywwo)
+- [Python wrapper for World Weather](https://github.com/ekapope/WorldWeatherOnline)
 
 ### [WooCommerce](https://www.woothemes.com/woocommerce/) - Ecommerce
 - [API Documentation](https://docs.woothemes.com/document/woocommerce-rest-api/)
 - [Python wrapper for WooCommerce](https://github.com/woothemes/wc-api-python)
-
-### [Wordnik](https://www.wordnik.com) - Online dictionary
-- [API Documentation](https://developer.wordnik.com)
-- [Python wrapper for Wordnik](https://github.com/wordnik/wordnik-python)
 
 ### [Wunderlist](https://www.wunderlist.com/) - Task Management Application
 - [API Documentation](https://developer.wunderlist.com/documentation)
 - [Python wrapper](https://github.com/mieubrisse/wunderpy2)
 
 ### [Yahoo](https://www.yahoo.com) - Web portal, search engine
-- [API Documentation](https://developer.yahoo.com/python/python-rest.html)
+- [API Documentation](https://github.com/cttn/Stockex)
 - [Python wrapper for Yahoo](https://code.google.com/p/python-weather-api/)
-
-### [Yahoo Query Language](https://developer.yahoo.com/yql) - SQL-like query language
-- [API Documentation](https://developer.yahoo.com/yql/guide/)
-- [Python wrapper for Yahoo Query Language](https://myql.readthedocs.org/en/latest/)
 
 ### [Yelp](https://www.yelp.com) - Local search website
 - [API Documentation](https://www.yelp.com/developers/documentation)
-- [Python wrapper for Yelp](https://github.com/mathisonian/python-yelp-v2)
+- [Python wrapper for Yelp](https://github.com/Yelp/yelp-python)
 
 ### [You Need a Budget (YNAB)](https://www.youneedabudget.com/) - Personal budgeting software
-- [Python wrapper for YNAB](https://github.com/aldanor/pynab)
+- [API documentation](https://api.youneedabudget.com/)
+- [Python wrapper for YNAB](https://github.com/deanmcgregor/ynab-python)
 
 ### [YouTube](https://www.youtube.com) - Video-sharing website
 - [API Documentation](https://developers.google.com/youtube/)
-- [Python wrapper for YouTube](https://pypi.python.org/pypi/youtube-api-wrapper/0.2)
+- [Python wrapper for YouTube](https://github.com/rohitkhatri/youtube-python)
