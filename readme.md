@@ -533,97 +533,6 @@ Here are observations on some of them from:
 
 #### Wrappers
 
-##### easytmdb 0.2.0 : Python Package Index
-to          |   click
-------------|---------------
-Source Code | https://github.com/benregn/easytmdb
-PyPI Page   | https://pypi.python.org/pypi/easytmdb/0.2.0
-Py Support  |
-Last Update |
-Info Date   | 2014/09/07
-
-**Observations and notes:**
-
- + **2014/09/07:**
-   - based on tmdbsimple, with implementation changes (meanwhile already present in tmdbsimple)
-
-##### themoviedb themoviedb.org wrapper for api v3
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/10/17
-
-**Observations and notes:**
-
- + **2014/10/17:**
-   - supports API v3
-   - only movie search api is implemented.
-
-##### themoviedb Python wrapper to themoviedb.org API
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb_oldapi
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/10/17
-
-**Observations and notes:**
-
- + **2014/10/17:**
-   - deprecated
-
-##### themoviedb  Python wrapper to themoviedb.org API
-to          |   click
-------------|---------------
-Source Code | https://github.com/dbr/themoviedb
-PyPI Page   |
-Py Support  | v. 2.6, v. 2.7, v. 3.3
-Last Update | 2013/05/31
-Info Date   | 2014/09/07
-
-##### TheMovieDB.bundle
-to          |   click
-------------|---------------
-Source Code | https://github.com/plexinc-agents/TheMovieDB.bundle
-PyPI Page   |
-Py Support  |
-Last Update | 2014/07/27
-Info Date   | 2014/09/07
-
-##### [themoviedb-json] Unofficial themoviedb.org python api wrapper
-to          |   click
-------------|---------------
-Source Code | https://github.com/doganaydin/themoviedb-json
-PyPI Page   |
-Last Update |
-Info Date   | 2014/09/07
-
-##### [tmdb] Python Package Index
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tmdb/1.0b
-Py Support  | v.2.7, v.3
-Last Update | version 1.0b
-Info Date   | 2014/09/07
-
-**Observations and notes:**
- + **(2014/09/07)**
-   - deprecated
-
-##### TMDB Small application using TMDB APIs
-to          |   click
-------------|---------------
-Source Code | https://github.com/codershoder/TMDB
-PyPI Page   |
-Py Support  |
-Last Update |
-Info Date   | 2014/09/07
-
 ##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
 to          |   click
 ------------|---------------
@@ -631,21 +540,6 @@ Source Code | https://github.com/celiao/tmdbsimple
 PyPI Page   | https://pypi.python.org/pypi/tmdbsimple
 Py Support  |
 Last Update | version 1.0.0 (2014/09/22)
-Info Date   | 2014/09/07
-
-**Observations and notes:**
-
- + **2014/09/07:**
-   - simply maps API endpoints to Python functions
-   - supports v.3 of the API and the new Search/Multi endpoint
-
-##### [tmdb3] 0.7.0 : Python Package Index
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tmdb3
-Py Support  |
-Last Update | version 0.7.0 (?/?/?)
 Info Date   | 2014/09/07
 
 ### [TinyURL](https://www.tinyurl.com) - URL Shortner
@@ -658,7 +552,7 @@ Info Date   | 2014/09/07
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](https://corporate.tuenti.com/en/dev)
-- [Python wrapper for Tuenti](https://github.com/juanriaza/python-tuenti)
+- [Python wrapper for Tuenti](https://github.com/mgp25/Tuenti-API)
 
 ### [Tumblr](https://www.tumblr.com) - Microblogging platform
 - [API Documentation](https://www.tumblr.com/docs/en/api/v2)
