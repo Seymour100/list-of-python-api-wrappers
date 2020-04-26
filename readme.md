@@ -511,7 +511,7 @@ If it has been over three years since there was any development activity for an 
 
 ### [Temp Mail](https://temp-mail.ru) - Anonymous emails
 - [API Documentation](https://temp-mail.org/en/api/)
-- [Python wrapper for Temp mail](https://github.com/CITGuru/tempmail)
+- [Python wrapper](https://github.com/CITGuru/tempmail)
 
 ### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine
 - [API Documentation](https://tesseract-ocr.github.io/)
@@ -519,28 +519,11 @@ If it has been over three years since there was any development activity for an 
 
 ### [The Pirate Bay](https://thepiratebay.sx/) - Peer-to-peer file sharing
 - [API Documentation](https://rapidapi.com/volodimir.kudriachenko/api/ThePirateBay)
-- [Python wrapper for TPB](https://github.com/appi147/thepiratebay)
+- [Python wrapper](https://github.com/appi147/thepiratebay)
 
 ### [The Movie Database](https://www.themoviedb.org) - Movie and TV Database
-
-#### Official Site
 - [API Documentation](https://www.themoviedb.org/documentation/api)
-- [List of wrappers](https://www.themoviedb.org/documentation/api/wrappers-libraries)
-
-#### There are a bunch of wrappers for The Movie Database.
-
-Here are observations on some of them from:
-
-#### Wrappers
-
-##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
-to          |   click
-------------|---------------
-Source Code | https://github.com/celiao/tmdbsimple
-PyPI Page   | https://pypi.python.org/pypi/tmdbsimple
-Py Support  |
-Last Update | version 1.0.0 (2014/09/22)
-Info Date   | 2014/09/07
+- [Python wrapper](https://github.com/celiao/tmdbsimple)
 
 ### [TinyURL](https://www.tinyurl.com) - URL Shortner
 - [API Documentation](http://tiny-url.info/open_api.html)
@@ -548,7 +531,7 @@ Info Date   | 2014/09/07
 
 ### [Trello](https://trello.com/) - Kanban boards
 - [API Documentation](https://trello.com/docs/index.html)
-- [Python wrapper for Trello](https://github.com/sarumont/py-trello)
+- [Python wrapper](https://github.com/sarumont/py-trello)
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](https://corporate.tuenti.com/en/dev)
@@ -565,81 +548,6 @@ Info Date   | 2014/09/07
 - [API Documentation](https://www.thetvdb.com/wiki/index.php/Programmers_API)
 
 #### Wrappers
-
-##### gnarlytvdb: A python interface to thetvdb.com xml api
-to          |   click
-------------|---------------
-Source Code | https://github.com/steinitzu/gnarly-tvdb
-PyPI Page   | https://pypi.python.org/pypi/gnarlytvdb/0.6
-Py Support  |
-Last Update | version 0.6 (2013/01/29)
-Info Date   | 2014/12/20
-
-**Observations and notes:**
-
- + **2014/12/20:**
-   - Does not implement actors and banners API
-
-
-##### pytvdb: A python library for interacting with TheTVDB.com API
-to          |   click
-------------|---------------
-Source Code | https://bitbucket.org/arshsingh/pytvdb
-PyPI Page   |
-Py Support  |
-Last Update | (2014/08/19)
-Info Date   | 2014/12/20
-
-
-##### PyTVDB: a Python module for the thetvdb.com API
-to          |   click
-------------|---------------
-Source Code | https://github.com/elderhsouza/PyTVDB
-PyPI Page   |
-Py Support  |
-Last Update | (2014/03/13)
-Info Date   | 2014/12/20
-
-
-##### pytvdbapi: A clean, resource friendly and easy to use API for thetvdb.com
-to          |   click
-------------|---------------
-Source Code | https://github.com/fuzzycode/pytvdbapi
-PyPI Page   | https://pypi.python.org/pypi/pytvdbapi/0.5.0
-Py Support  | v.2.6, v.2.7, v.3.3 and v.3.4
-Last Update | version 0.5.0 (2014/10/28)
-Info Date   | 2014/12/20
-
-
-##### thetvdb_api: A Python API for theTVDB.
-to          |   click
-------------|---------------
-Source Code | https://bitbucket.org/Julien-D/thetvdb_api
-PyPI Page   | https://pypi.python.org/pypi/thetvdb_api/0.3.1
-Py Support  | v.2.7, v.3.2
-Last Update | version 0.3.1 (2014/02/10)
-Info Date   | 2014/12/20
-
-
-##### tvdb: Module for accessing the Web API at TheTVDB.com
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://pypi.python.org/pypi/tvdb/0.22
-Py Support  |
-Last Update | version 0.22 (2009/02/20)
-Info Date   | 2014/12/20
-
-
-##### TVDB Caching API
-to          |   click
-------------|---------------
-Source Code |
-PyPI Page   | https://bitbucket.org/robdennis/tvdb-caching-api
-Py Support  |
-Last Update | (2012/06/26)
-Info Date   | 2014/12/21
-
 
 ##### dbr/tvdb_api: Interface to thetvdb.com
 to          |   click
@@ -659,22 +567,6 @@ PyPI Page   |
 Py Support  |
 Last Update | (2012/11/07)
 Info Date   | 2014/12/21
-
-**Observations and notes:**
-
- + **2014/12/21:**
-   - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recomended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
-
-##### tvdbpy: Yet another TvDB API Python wrapper. Work in progress.
-to          |   click
-------------|---------------
-Source Code | https://github.com/matiasb/tvdbpy
-PyPI Page   |
-Py Support  |
-Last Update | (2014/02/16)
-Info Date   | 2014/12/20
-
-
 
 ### [Twilio](https://twilio.com/) - SMS and Voice through the cloud
 - [API Documentation](https://www.twilio.com/docs/python/install)
