@@ -524,7 +524,7 @@ If it has been over three years since there was any development activity for an 
 ### [The Movie Database](https://www.themoviedb.org) - Movie and TV Database
 
 #### Official Site
-- [API Documentation](https://docs.themoviedb.apiary.io)
+- [API Documentation](https://www.themoviedb.org/documentation/api)
 - [List of wrappers](https://www.themoviedb.org/documentation/api/wrappers-libraries)
 
 #### There are a bunch of wrappers for The Movie Database.
@@ -649,8 +649,8 @@ Last Update | version 0.7.0 (?/?/?)
 Info Date   | 2014/09/07
 
 ### [TinyURL](https://www.tinyurl.com) - URL Shortner
-- [API Documentation](https://github.com/daxeel/TinyURL-Python)
-- [Python wrapper](https://github.com/daxeel/TinyURL-Python)
+- [API Documentation](http://tiny-url.info/open_api.html)
+- [Python wrapper](https://github.com/IzunaDevs/TinyURL)
 
 ### [Trello](https://trello.com/) - Kanban boards
 - [API Documentation](https://trello.com/docs/index.html)
