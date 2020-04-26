@@ -517,13 +517,9 @@ If it has been over three years since there was any development activity for an 
 - [API Documentation](https://tesseract-ocr.github.io/)
 - [Python wrapper](https://github.com/sirfz/tesserocr)
 
-### [The Echo Nest](https://echonest.com) - Music services
-- [API Documentation](https://developer.echonest.com/client_libraries.html)
-- [Python Wrapper for Echo Nest](https://github.com/echonest/pyechonest)
-
 ### [The Pirate Bay](https://thepiratebay.sx/) - Peer-to-peer file sharing
-- [API Documentation](https://github.com/thekarangoel/TPB)
-- [Python wrapper for TPB](https://github.com/thekarangoel/TPB)
+- [API Documentation](https://rapidapi.com/volodimir.kudriachenko/api/ThePirateBay)
+- [Python wrapper for TPB](https://github.com/appi147/thepiratebay)
 
 ### [The Movie Database](https://www.themoviedb.org) - Movie and TV Database
 
