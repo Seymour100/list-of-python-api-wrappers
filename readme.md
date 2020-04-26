@@ -589,11 +589,7 @@ Info Date   | 2014/12/21
 
 ### [Udemy](https://www.udemy.com) - Online University
 - [API Documentation](https://www.udemy.com/developers/)
-- [Python wrapper for Udemy](https://github.com/hudsonbrendon/pyudemy)
-
-### [Unirest](https://unirest.io/) - Set of lightweight HTTP libraries
-- [API Documentation](https://unirest.io/#python)
-- [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
+- [Python wrapper for Udemy](https://github.com/udacity/PYND)
 
 ### [UPS](https://www.ups.com) - Package Delivery
 - [API Documentation](https://www.ups.com/upsdeveloperkit)
