@@ -573,15 +573,15 @@ Info Date   | 2014/12/21
 - [Python wrapper for Twilio](https://github.com/twilio/twilio-python/)
 
 ### [Twitter](https://twitter.com/) - Online microblogging service
-- [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
+- [API Documentation](https://developer.twitter.com/en/docs)
 - [Python wrapper #1](https://github.com/bear/python-twitter/) - python-twitter
 - [Python wrapper #2](https://github.com/ryanmcgrath/twython) - Twython
 - [Python wrapper #3](https://github.com/inueni/birdy) - birdy
 - [Python wrapper #4](https://github.com/tweepy/tweepy) - tweepy
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
-- [API Documentation](https://developer.uber.com/v1/endpoints/)
-- [Python wrapper for Uber](https://github.com/vivangkumar/uberpy)
+- [API Documentation](https://developer.uber.com/docs)
+- [Python wrapper for Uber](https://github.com/uber/rides-python-sdk)
 
 ### [Udacity](https://www.udacity.com) - Online University
 - [API Documentation](https://www.udacity.com/catalog-api)
