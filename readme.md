@@ -600,12 +600,12 @@ Info Date   | 2014/12/21
 - [Python wrapper for Urban Dictionary](https://github.com/novel/py-urbandict)
 
 ### [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
-- [API Documentation](https://www.vaultproject.io/docs/http/index.html)
+- [API Documentation](https://www.vaultproject.io/api-docs)
 - [Python wrapper for Vault](https://github.com/ianunruh/hvac)
 
 ### [Vimeo](https://vimeo.com/) - Video-sharing website
-- [API Documentation](https://developer.vimeo.com/apis/)
-- [Python wrapper for Vimeo](https://github.com/rkumarnirmal/python-vimeo)
+- [API Documentation](https://developer.vimeo.com/)
+- [Python wrapper for Vimeo](https://github.com/vimeo/vimeo.py)
 
 ### [VK](https://vk.com/) - Social networking service
 - [API Documentation](https://vk.com/dev/methods)
@@ -617,7 +617,7 @@ Info Date   | 2014/12/21
 - [Python wrapper](https://github.com/caroso1222/wapy)
 
 ### [WhatsApp](https://www.whatsapp.com/) -  Mobile and desktop messaging app
-- ~~API Documentation~~
+- [API documentation](https://developers.facebook.com/docs/whatsapp/api/reference/)
 - [Python wrapper](https://github.com/tgalal/yowsup)
 
 ### [Wikipedia](https://www.wikipedia.org/) - Wikipedia
