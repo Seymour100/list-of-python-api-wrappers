@@ -4,18 +4,15 @@
 
 Below you will find a list along with links to their docs and Python wrappers/libraries. Originally forked from [GitHub repos](https://github.com/realpython/list-of-python-api-wrappers) of [Real Python](https://realpython.com) via [johnwmiller](https://github.com/johnwmillr/list-of-python-api-wrappers).
 
-#### Last updated by Jeff Hale 2020-04-10.
+---
+### Have a new API to add? Great! Please submit a pull request and follow the format below.
 
+### Found a broken API? Excellent! Please submit a pull request with it fixed or removed.
 ---
-### Have a new API to add? Great! Please submit a pull request.
 
-### Found a broken API? Great! Please submit a pull request with it fixed or removed.
----
-If it has been over three years since there was any development activity for an API wrapper, the chances that it doesn't work great are pretty high. Consequently, we tend to remove those API wrappers.
----
 
 ### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
-- [API Documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
+- [API documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper](https://python-amazon-product-api.readthedocs.io/en/latest/)
 
 ### [Amazon Alexa](https://www.alexa.com/) - Cloud-based voice service for devices
