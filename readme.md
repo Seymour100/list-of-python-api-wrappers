@@ -526,7 +526,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 - [Python wrapper for UPS](https://github.com/classicspecs/ClassicUPS)
 
 ### [UrbanDictionary](https://www.urbandictionary.com) - Web-based dictionary
-- [API documentation](https://www.urbandictionary.com)
+- [API documentation](https://www.urbandictionary.com/define.php?term=API)
 - [Python wrapper](https://github.com/novel/py-urbandict)
 
 ### [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
