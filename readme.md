@@ -11,7 +11,7 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 
 See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
 
----
+
 ## The List
 ---
 
