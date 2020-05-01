@@ -564,8 +564,9 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 
 ### [World Bank](https://data.worldbank.org/indicator) - Collection of development indicators
 - [API documentation](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information)
+- [Python wrapper #1: wbgapi](https://github.com/tgherzog/wbgapi/tree/master/wbgapi) 
 - [Python wrapper #2: wbdata](https://github.com/OliverSherouse/wbdata)
-- [Python wrapper #1: World-Bank-Python](https://github.com/dpfens/World-Bank-Python)
+- [Python wrapper #3: World-Bank-Python](https://github.com/dpfens/World-Bank-Python)
 
 ### [World Weather](https://www.worldweatheronline.com/) - Weather Service
 - [API documentation](https://developer.worldweatheronline.com)
