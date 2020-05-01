@@ -13,6 +13,9 @@ Below you will find a list along with links to their docs and Python wrappers/li
 #### See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
 ---
 
+## The List
+---
+
 ### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
 - [API documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper](https://python-amazon-product-api.readthedocs.io/en/latest/)
