@@ -10,7 +10,7 @@ Below you will find a list along with links to their docs and Python wrappers/li
 ### Found a broken API? Excellent! Please submit a pull request with it fixed or removed.
 ---
 
-See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
+#### See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
 ---
 
 ### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
