@@ -512,6 +512,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) 
 - [Python wrapper #3: birdy](https://github.com/inueni/birdy) 
 - [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) 
+- [Python wrapper #5: GetOldTweets3](https://github.com/Mottl/GetOldTweets3)
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
 - [API Documentation](https://developer.uber.com/docs)
