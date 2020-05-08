@@ -2,7 +2,7 @@
 
 ## This list of Python API wrappers is designed to be the most updated anywhere! 🚀
 
-Below you will find a list along with links to their docs and Python wrappers/libraries. Originally forked from [GitHub repos](https://github.com/realpython/list-of-python-api-wrappers) of [Real Python](https://realpython.com) via [johnwmiller](https://github.com/johnwmillr/list-of-python-api-wrappers).
+Below you will find a list of APIs along with links to the API docs and the Python wrappers docs. This list was originally forked from [GitHub repo](https://github.com/realpython/list-of-python-api-wrappers) of [Real Python](https://realpython.com) via [johnwmillr](https://github.com/johnwmillr/list-of-python-api-wrappers).
 
 
 Have a new API to add? Great! Please submit a pull request and follow the format below.
