@@ -96,11 +96,11 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://developers.box.com/)
 - [Python wrapper](https://github.com/box/box-python-sdk)
 
-### [Braintree](https://www.braintreepayments.com/) - Accept Payments Online
+### [Braintree](https://www.braintreepayments.com/) - Accept payments online
 - [API documentation](https://www.braintreepayments.com/developers)
 - [Python wrapper](https://github.com/braintree/braintree_python)
 
-### [Challonge](https://challonge.com) - Tournament Brackets
+### [Challonge](https://challonge.com) - Tournament brackets
 - [API Documentation](https://challonge.com/api)
 - [Python wrapper](https://github.com/ZEDGR/pychal)
 
@@ -128,7 +128,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://github.com/juliomalegria/python-craigslist)
 - [Python wrapper](https://github.com/juliomalegria/python-craigslist)
 
-### [Discogs](https://www.discogs.com) - Marketplace for Music on Vinyl, CD..
+### [Discogs](https://www.discogs.com) - Marketplace for music on vinyl & CD.
 - [API documentation](https://www.discogs.com/developers/)
 - [Python wrapper for Discogs](https://github.com/discogs/discogs_client)
 
@@ -144,7 +144,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://disqus.com/api/docs/)
 - [Python wrapper](https://github.com/disqus/python-phabricator)
 
-### [Docker](https://www.docker.com/) - an open platform for distributed applications for developers and sysadmins
+### [Docker](https://www.docker.com/) - Containerization platform for distributed applications for developers and sysadmins
 - [API documentation](https://docker-py.readthedocs.io/en/stable/)
 - [Python wrapper](https://github.com/docker/docker-py)
 
@@ -176,7 +176,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.fedex.com/us/developer/)
 - [Python wrapper](https://github.com/gtaylor/python-fedex/)
 
-### [Flickr](https://www.flickr.com) - Image and Video hosting
+### [Flickr](https://www.flickr.com) - Image and video hosting
 - [API documentation](https://www.flickr.com/services/api/)
 - [Python wrapper](https://github.com/alexis-mignon/python-flickr-api)
 
@@ -220,11 +220,11 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://github.com/aviaryan/python-gsearch)
 - [Python wrapper](https://github.com/aviaryan/python-gsearch)
 
-### [Google Sheets](https://www.google.com/sheets/about/) - create and edit spreadsheets online, for free.
+### [Google Sheets](https://www.google.com/sheets/about/) - Create and edit spreadsheets online, for free.
 - [API documentation](https://developers.google.com/sheets/)
 - [Python wrapper](https://github.com/nithinmurali/pygsheets)
 
-### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online Spreadsheets
+### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online spreadsheets
 - [API documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper](https://github.com/burnash/gspread)
 
@@ -232,7 +232,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://goprohero.readthedocs.io/en/latest/API/)
 - [Python wrapper](https://github.com/konradit/gopro-py-api)
 
-### [Hacker News](https://news.ycombinator.com/) - Social News
+### [Hacker News](https://news.ycombinator.com/) - Social news
 - [API documentation](https://github.com/HackerNews/API)
 - [Python wrapper](https://github.com/avinassh/haxor/)
 
@@ -240,7 +240,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
 - [Python wrapper](https://pypi.python.org/pypi/yarn-api-client)
 
-### [Heroku](https://www.heroku.com/) - Cloud Application Platform
+### [Heroku](https://www.heroku.com/) - Cloud application platform
 - [API documentation](https://devcenter.heroku.com/articles/platform-api-reference)
 - [Python wrapper](https://pypi.python.org/pypi/heroku)
 
@@ -248,7 +248,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://iextrading.com/developer/docs)
 - [Python wrapper](https://github.com/addisonlynch/iexfinance)
 
-### [Imgur](https://www.imgur.com/) - Simple Image Sharer
+### [Imgur](https://www.imgur.com/) - Simple image sharer
 - [API documentation](https://api.imgur.com/)
 - [Python wrapper](https://apidocs.imgur.com/?version=latest)
 
@@ -260,11 +260,11 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://developers.facebook.com/docs/instagram-api/)
 - [Python wrapper](https://github.com/Instagram/python-instagram)
 
-### [Investopedia](https://www.investopedia.com/simulator/) - Stock Simulator
+### [Investopedia](https://www.investopedia.com/simulator/) - Stock simulator
 - [API documentation](https://www.investopedia.com/simulator/)
 - [Python wrapper](https://github.com/kirkthaker/investopedia-trading-api)
 
-### [IP Street](https://www.ipstreet.com/) - patent data and analytics algorithms as a service
+### [IP Street](https://www.ipstreet.com/) - Patent data and analytics algorithms as a service
 - [API documentation](https://docs.ipstreet.com/)
 - [Python wrapper](https://github.com/IPStreet/PythonSDK)
 
@@ -284,15 +284,11 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.last.fm/api)
 - [Python wrapper for Last.fm](https://code.google.com/p/python-lastfm/)
 
-### [LightGBM](https://github.com/Microsoft/LightGBM) - gradient boosting framework by Microsoft
-- [API documentation](https://github.com/Microsoft/LightGBM)
-- [Python wrapper](https://lightgbm.readthedocs.io/en/latest/Python-API.html)
-
-### [LinkedIn](https://linkedin.com/) - Professional Social Network
+### [LinkedIn](https://linkedin.com/) - Professional social network
 - [API documentation](https://developer.linkedin.com/apis)
 - [Python wrapper](https://github.com/tomquirk/linkedin-api)
 
-### [Medium](https://medium.com/) - blog publishing platform
+### [Medium](https://medium.com/) - Blog publishing platform
 - [API documentation](https://github.com/enginebai/PyMedium)
 - [Python wrapper #1](https://github.com/enginebai/PyMedium)
 - [Python wrapper #2](https://github.com/wopify/medium-api-wrapper)
@@ -325,7 +321,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API Documentation](https://netflixroulette.net/api/)
 - [Python wrapper](https://github.com/tizz98/netflix_roulette)
 
-### [New York Times Archive API](https://developer.nytimes.com/archive_api.json) - The Archive API provides JSON lists of articles by month
+### [New York Times Archive](https://developer.nytimes.com/archive_api.json) - The Archive API provides JSON lists of articles by month
 - [API documentation](https://developer.nytimes.com/apis)
 - [Python wrapper](https://github.com/suewoon/nyt-api-wrapper)
 
@@ -341,7 +337,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://onetimesecret.com/docs/api)
 - [Python wrapper](https://github.com/onetimesecret/onetimesecret)
 
-### [OpenWeatherMap](https://openweathermap.org/) - Weather Service
+### [OpenWeatherMap](https://openweathermap.org/) - Weather service
 - [API documentation](https://openweathermap.org/api)
 - [Python wrapper](https://github.com/csparpa/pyowm)
 
@@ -559,7 +555,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.mediawiki.org/wiki/API)
 - [Python wrapper](https://github.com/martin-majlis/Wikipedia-API/)
 
-### [Windows Azure](https://www.windowsazure.com/) - Microsoft's Cloud Platform
+### [Windows Azure](https://www.windowsazure.com/) - Microsoft's cloud platform
 - [API documentation](https://www.windowsazure.com/en-us/develop/python/)
 - [Python wrapper](https://github.com/WindowsAzure/azure-sdk-for-python)
 
@@ -569,7 +565,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [Python wrapper #2: wbdata](https://github.com/OliverSherouse/wbdata)
 - [Python wrapper #3: World-Bank-Python](https://github.com/dpfens/World-Bank-Python)
 
-### [World Weather](https://www.worldweatheronline.com/) - Weather Service
+### [World Weather](https://www.worldweatheronline.com/) - Weather service
 - [API documentation](https://developer.worldweatheronline.com)
 - [Python wrapper](https://github.com/ekapope/WorldWeatherOnline)
 
