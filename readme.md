@@ -38,7 +38,8 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 
 ### [Archive.is](https://archive.is/) - Time capsule for web pages
 - [API documentation](https://mementoweb.org/depot/native/archiveis/)
-- [Python wrapper](https://github.com/pastpages/archiveis)
+- [Python wrapper #1](https://github.com/jjjake/internetarchive)
+- [Python wrapper #2](https://github.com/pastpages/archiveis)
 
 ### [Archive.org](https://archive.org/) - Internet archive
 - [API documentation](https://archive.org/help/json.php)
