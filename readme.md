@@ -101,6 +101,10 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.braintreepayments.com/developers)
 - [Python wrapper](https://github.com/braintree/braintree_python)
 
+### [Census Data](https://www.census.gov/data.html) - Census Summary file and American Community Surveys
+- [API documentation](https://jtleider.github.io/censusdata/)
+- [Python wrapper](https://github.com/jtleider/censusdata)
+
 ### [Challonge](https://challonge.com) - Tournament brackets
 - [API Documentation](https://challonge.com/api)
 - [Python wrapper](https://github.com/ZEDGR/pychal)
