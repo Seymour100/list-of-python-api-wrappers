@@ -53,6 +53,10 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
 
+### [Asana](https://asana.com/) - Organise projects and teams
+- [API documentation](https://asana.readthedocs.io/)
+- [Python wrapper](https://pypi.org/project/asana/)
+
 ### [Ascribe](https://www.ascribe.io) - Register and license intellectual Property
 - [API documentation](https://docs.ascribe.apiary.io)
 - [Python wrapper](https://pypi.org/project/ascribe/)
