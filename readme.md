@@ -481,6 +481,10 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.themoviedb.org/documentation/api)
 - [Python wrapper](https://github.com/celiao/tmdbsimple)
 
+### [TikTok](https://www.tiktok.com/en/) - 
+- [API documentation](https://developers.tiktok.com/doc)
+- [Python wrapper](https://github.com/davidteather/TikTok-Api)
+
 ### [TinyURL](https://www.tinyurl.com) - URL Shortner
 - [API documentation](http://tiny-url.info/open_api.html)
 - [Python wrapper](https://github.com/IzunaDevs/TinyURL)
@@ -491,7 +495,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API documentation](https://corporate.tuenti.com/en/dev)
-- [Python wrapper for Tuenti](https://github.com/mgp25/Tuenti-API)
+- [Python wrapper](https://github.com/mgp25/Tuenti-API)
 
 ### [Tumblr](https://www.tumblr.com) - Microblogging platform
 - [API documentation](https://www.tumblr.com/docs/en/api/v2)
