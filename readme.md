@@ -374,6 +374,10 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://plot.ly/api/)
 - [Python wrapper](https://github.com/plotly/plotly.py)
 
+### [Pokemon Characters](https://pokeapi.co) - Pokemon character info
+- [API documentation](https://pokeapi.co/docs/v2)
+- [Python Wrapper](https://github.com/PokeAPI/pokebase)
+
 ### [Polar Devices](https://www.polar.com) - Watches and devices
 - [API documentation](https://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
