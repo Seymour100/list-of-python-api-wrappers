@@ -15,6 +15,11 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 ## The List
 ---
 
+### [AlphaVantage](https://alphavantage.co/) - Stock & Cryptocurrency data
+- [API documentation](https://www.alphavantage.co/documentation/)
+- [Python wrapper](https://github.com/RomelTorres/alpha_vantage)
+
+
 ### [Amazon Advertising](https://advertising.amazon.com/) - Amazon product advertising for sellers
 - [API documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper](https://python-amazon-product-api.readthedocs.io/en/latest/)
