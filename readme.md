@@ -10,6 +10,7 @@ Have a new API to add? Great! Please submit a pull request and follow the format
 Found a broken API? Excellent! Please submit a pull request with it fixed or removed.
 
 See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
+The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to retrieve data for input into pandas DataFrames from 15 sources. Most are financial. See more [here](https://pandas-datareader.readthedocs.io/en/latest/remote_data.html).
 
 
 ## The List
@@ -343,6 +344,10 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://newsapi.org/#documentation)
 - [Python wrapper](https://github.com/mattlisiv/newsapi-python)
 
+### [NOAA](https://www.noaa.gov/) - National Oceanic and Atmospheric Administration weather data
+- [API documentation](https://www.weather.gov/documentation/services-web-api)
+- [Python wrapper](https://github.com/paulokuong/noaa)
+
 ### [Onfleet](https://onfleet.com/) - Last mile delivery management service
 - [API documentation](https://docs.onfleet.com/)
 - [Python wrapper](https://github.com/onfleet/pyonfleet)
@@ -494,7 +499,7 @@ See my discussion of working with APIs in Towards Data Science [here](https://to
 - [API documentation](https://www.themoviedb.org/documentation/api)
 - [Python wrapper](https://github.com/celiao/tmdbsimple)
 
-### [TikTok](https://www.tiktok.com/en/) - 
+### [TikTok](https://www.tiktok.com/en/) - Short-form mobile videos
 - [API documentation](https://developers.tiktok.com/doc)
 - [Python wrapper](https://github.com/davidteather/TikTok-Api)
 
