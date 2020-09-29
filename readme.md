@@ -10,6 +10,7 @@ Have a new API to add? Great! Please submit a pull request and follow the format
 Found a broken API? Excellent! Please submit a pull request with it fixed or removed.
 
 See my discussion of working with APIs in Towards Data Science [here](https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b).
+
 The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to retrieve data for input into pandas DataFrames from 15 sources. Most are financial. See more [here](https://pandas-datareader.readthedocs.io/en/latest/remote_data.html).
 
 
