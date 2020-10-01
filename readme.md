@@ -164,10 +164,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://docker-py.readthedocs.io/en/stable/)
 - [Python wrapper](https://github.com/docker/docker-py)
 
-### [Dark Ski](https://forecast.io/) - Weather forecasting
-- [API documentation](https://developer.forecast.io/docs/v2)
-- [Python wrapper](https://github.com/ZeevG/python-forecast.io)
-
 ### [Dropbox](https://www.dropbox.com) - File hosting service
 - [API documentation](https://www.dropbox.com/developers)
 - [Python wrapper](https://github.com/dropbox/dropbox-sdk-python)
