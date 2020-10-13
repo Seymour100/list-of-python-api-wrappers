@@ -240,6 +240,11 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper](https://github.com/burnash/gspread)
 
+
+### [Google Stree View](https://www.google.com/streetview/) - Images from Google Streetview
+- [API documentation](https://developers.google.com/maps/documentation/streetview/usage-and-billing)
+- [Python wrapper](https://pypi.org/project/google-streetview/)
+
 ### [GoPro](https://gopro.com) - Cameras
 - [API documentation](https://goprohero.readthedocs.io/en/latest/API/)
 - [Python wrapper](https://github.com/konradit/gopro-py-api)
