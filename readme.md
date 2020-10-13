@@ -420,7 +420,11 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Scrapinghub](https://scrapinghub.com/) - Scraping services
 - [API documentation](https://python-scrapinghub.readthedocs.io/en/latest/client/apidocs.html)
-- [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
+- [Python wrapper](https://github.com/scrapinghub/python-scrapinghub)
+
+### [Sentinelsat](http://www.esa.int/Applications/Observing_the_Earth/Copernicus/Overview4) - Satellite
+- [API](https://scihub.copernicus.eu/)
+- [Python wrapper](https://sentinelsat.readthedocs.io/en/stable/)
 
 ### [Skyscanner](https://www.skyscanner.net/) - Travel metasearch
 - [API documentation](https://business.skyscanner.net/portal/en-GB/Documentation/ApiOverview)
