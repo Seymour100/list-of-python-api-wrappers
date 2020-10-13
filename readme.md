@@ -292,7 +292,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://kite.trade/docs/connect/v3/)
 - [Python wrapper](https://github.com/rainmattertech/pykiteconnect)
 
-### [Landsat] - Satellite imagery
+### [Landsat](https://www.usgs.gov/core-science-systems/nli/landsat/landsat-data-access?qt-science_support_page_related_con=0#qt-science_support_page_related_con) - Satellite imagery
 - [Register for API access](https://ers.cr.usgs.gov/login?redirectUrl=https://ers.cr.usgs.gov/profile/access)
 - [Python wrapper](https://github.com/yannforget/landsatxplore)
 
