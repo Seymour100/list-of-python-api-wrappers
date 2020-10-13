@@ -292,6 +292,10 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://kite.trade/docs/connect/v3/)
 - [Python wrapper](https://github.com/rainmattertech/pykiteconnect)
 
+### [Landsat] - Satellite imagery
+- [Register for API access](https://ers.cr.usgs.gov/login?redirectUrl=https://ers.cr.usgs.gov/profile/access)
+- [Python wrapper](https://github.com/yannforget/landsatxplore)
+
 ### [Last.fm](https://www.last.fm) - Online music
 - [API documentation](https://www.last.fm/api)
 - [Python wrapper for Last.fm](https://code.google.com/p/python-lastfm/)
