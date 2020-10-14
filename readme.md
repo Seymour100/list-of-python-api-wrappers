@@ -546,7 +546,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) ![GitHub Repo stars](https://img.shields.io/github/stars/ryanmcgrath/twython) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcgrath/twython)
 - [Python wrapper #3: birdy](https://github.com/inueni/birdy) ![GitHub Repo stars](https://img.shields.io/github/stars/inueni/birdy) ![GitHub last commit](https://img.shields.io/github/last-commit/inueni/birdy)
 - [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) ![GitHub last commit](https://img.shields.io/github/last-commit/tweepy/tweepy)
-- [Python wrapper #5: GetOldTweets3](https://github.com/Mottl/GetOldTweets3) ![GitHub Repo stars](https://img.shields.io/github.com/Mottl/GetOldTweets3) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottl/GetOldTweets3)
+- [Python wrapper #5: GetOldTweets3](https://github.com/Mottl/GetOldTweets3) ![GitHub Repo stars](https://img.shields.io/github/Mottl/GetOldTweets3) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottl/GetOldTweets3)
 - [Python wrapper #6: TwitterScraper](https://github.com/taspinar/twitterscraper) ![GitHub Repo stars](https://img.shields.io/github/stars/taspinar/twitterscraper) ![GitHub last commit](https://img.shields.io/github/last-commit/taspinar/twitterscraper)
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
