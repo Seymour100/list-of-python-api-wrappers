@@ -312,8 +312,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Medium](https://medium.com/) - Blog publishing platform
 - [API documentation](https://github.com/enginebai/PyMedium)
-- [Python wrapper #1](https://github.com/enginebai/PyMedium)
-- [Python wrapper #2](https://github.com/wopify/medium-api-wrapper)
+- [Python wrapper #1 - PyMedium](https://github.com/enginebai/PyMedium) ![GitHub Repo stars](https://img.shields.io/github/stars/enginebai/PyMedium) ![GitHub last commit](https://img.shields.io/github/last-commit/enginebai/PyMedium)
+- [Python wrapper #2 - Medium API Wrapper](https://github.com/wopify/medium-api-wrapper) ![GitHub Repo stars](https://img.shields.io/github/stars/wopify/medium-api-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/wopify/medium-api-wrapper)
 
 ### [Meetup](https://www.meetup.com/) - Offline group meetings
 - [API documentation](https://www.meetup.com/meetup_api/)
@@ -542,7 +542,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Twitter](https://twitter.com/) - Online microblogging service
 - [API documentation](https://developer.twitter.com/en/docs)
-- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter/) ![GitHub Repo stars](https://img.shields.io/github/stars/bear/python-twitter/) ![GitHub last commit](https://img.shields.io/github/last-commit/bear/python-twitter/)
+- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter/) ![GitHub Repo stars](https://img.shields.io/github/stars/bear/python-twitter) ![GitHub last commit](https://img.shields.io/github/last-commit/bear/python-twitter)
 - [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) ![GitHub Repo stars](https://img.shields.io/github/stars/ryanmcgrath/twython) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcgrath/twython)
 - [Python wrapper #3: birdy](https://github.com/inueni/birdy) ![GitHub Repo stars](https://img.shields.io/github/stars/inueni/birdy) ![GitHub last commit](https://img.shields.io/github/last-commit/inueni/birdy)
 - [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) ![GitHub last commit](https://img.shields.io/github/last-commit/tweepy/tweepy)
