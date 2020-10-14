@@ -113,8 +113,10 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [Python wrapper](https://github.com/braintree/braintree_python)
 
 ### [Census Data](https://www.census.gov/data.html) - Census Summary file and American Community Surveys
-- [API documentation](https://jtleider.github.io/censusdata/)
-- [Python wrapper](https://github.com/jtleider/censusdata)
+- [API documentation](https://www.census.gov/data/developers/data-sets.html)
+- [Python wrapper #1: CensusData](https://github.com/jtleider/censusdata)
+- [Python wrapper #2: CenPy](https://github.com/cenpy-devs/cenpy)
+- [Python wrapper #3: Census](https://github.com/datamade/census)
 
 ### [Challonge](https://challonge.com) - Tournament brackets
 - [API Documentation](https://challonge.com/api)
