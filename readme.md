@@ -306,6 +306,10 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://www.last.fm/api)
 - [Python wrapper for Last.fm](https://code.google.com/p/python-lastfm/)
 
+### [Libraries.io](https://libraries.io/) - Info about open source packages
+- [API documentation](https://pypi.org/project/pybraries/)
+- [Python wrapper](https://github.com/pybraries/pybraries)
+
 ### [LinkedIn](https://linkedin.com/) - Professional social network
 - [API documentation](https://developer.linkedin.com/apis)
 - [Python wrapper](https://github.com/tomquirk/linkedin-api)
@@ -398,10 +402,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Polar Devices](https://www.polar.com) - Watches and devices
 - [API documentation](https://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
-
-### Pybraries - Wrapper for the [libraries.io](https://libraries.io/) API. Get info about open source packages.
-- [API documentation](https://pypi.org/project/pybraries/)
-- [Python wrapper](https://github.com/pybraries/pybraries)
 
 ### [Rackspace](https://www.rackspace.com/) - Open cloud company
 - [API documentation](https://developer.rackspace.com/docs/cloud-servers/v2/)
