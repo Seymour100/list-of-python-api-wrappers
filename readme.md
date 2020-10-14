@@ -114,9 +114,9 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Census Data](https://www.census.gov/data.html) - Census Summary file and American Community Surveys
 - [API documentation](https://www.census.gov/data/developers/data-sets.html)
-- [Python wrapper #1: CensusData](https://github.com/jtleider/censusdata)
-- [Python wrapper #2: CenPy](https://github.com/cenpy-devs/cenpy)
-- [Python wrapper #3: Census](https://github.com/datamade/census)
+- [Python wrapper #1: CensusData](https://github.com/jtleider/censusdata)![GitHub Repo stars](https://img.shields.io/github/stars/jtleider/censusdata) ![GitHub last commit](https://img.shields.io/github/last-commit/jtleider/censusdata)
+- [Python wrapper #2: CenPy](https://github.com/cenpy-devs/cenpy)![GitHub Repo stars](https://img.shields.io/github/stars/cenpy-devs/cenpy) ![GitHub last commit](https://img.shields.io/github/last-commit/cenpy-devs/cenpy)
+- [Python wrapper #3: Census](https://github.com/datamade/census) ![GitHub Repo stars](https://img.shields.io/github/stars/datamade/census) ![GitHub last commit](https://img.shields.io/github/last-commit/datamade/census)
 
 ### [Challonge](https://challonge.com) - Tournament brackets
 - [API Documentation](https://challonge.com/api)
