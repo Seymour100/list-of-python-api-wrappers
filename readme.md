@@ -31,9 +31,9 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [Python wrapper](https://github.com/alexa/alexa-apis-for-python)
 
 ### [Amazon Product API](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html) - Amazon's product catalog
-- [API documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html)
-- [Python wrapper #1](https://github.com/yoavaviram/python-amazon-simple-product-api)
-- [Python wrapper #2](https://github.com/asherAgs/amzSear)
+- [API documentation](https://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html) 
+- [Python wrapper #1](https://github.com/yoavaviram/python-amazon-simple-product-api) ![GitHub Repo stars](https://img.shields.io/github/stars/yoavaviram/python-amazon-simple-product-api) ![GitHub last commit](https://img.shields.io/github/last-commit/yoavaviram/python-amazon-simple-product-api)
+- [Python wrapper #2](https://github.com/asherAgs/amzSear) ![GitHub Repo stars](https://img.shields.io/github/stars/asherAgs/amzSear) ![GitHub last commit](https://img.shields.io/github/last-commit/asherAgs/amzSear)
 
 ### [AWS](https://aws.amazon.com) - Cloud computing platform
 - [API documentation](https://aws.amazon.com/documentation/)
@@ -114,8 +114,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Census Data](https://www.census.gov/data.html) - Census Summary file and American Community Surveys
 - [API documentation](https://www.census.gov/data/developers/data-sets.html)
-- [Python wrapper #1: CensusData](https://github.com/jtleider/censusdata)![GitHub Repo stars](https://img.shields.io/github/stars/jtleider/censusdata) ![GitHub last commit](https://img.shields.io/github/last-commit/jtleider/censusdata)
-- [Python wrapper #2: CenPy](https://github.com/cenpy-devs/cenpy)![GitHub Repo stars](https://img.shields.io/github/stars/cenpy-devs/cenpy) ![GitHub last commit](https://img.shields.io/github/last-commit/cenpy-devs/cenpy)
+- [Python wrapper #1: CensusData](https://github.com/jtleider/censusdata) ![GitHub Repo stars](https://img.shields.io/github/stars/jtleider/censusdata) ![GitHub last commit](https://img.shields.io/github/last-commit/jtleider/censusdata)
+- [Python wrapper #2: CenPy](https://github.com/cenpy-devs/cenpy) ![GitHub Repo stars](https://img.shields.io/github/stars/cenpy-devs/cenpy) ![GitHub last commit](https://img.shields.io/github/last-commit/cenpy-devs/cenpy)
 - [Python wrapper #3: Census](https://github.com/datamade/census) ![GitHub Repo stars](https://img.shields.io/github/stars/datamade/census) ![GitHub last commit](https://img.shields.io/github/last-commit/datamade/census)
 
 ### [Challonge](https://challonge.com) - Tournament brackets
@@ -241,7 +241,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online spreadsheets
 - [API documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper](https://github.com/burnash/gspread)
-
 
 ### [Google Stree View](https://www.google.com/streetview/) - Images from Google Streetview
 - [API documentation](https://developers.google.com/maps/documentation/streetview/usage-and-billing)
@@ -410,8 +409,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Reddit](https://www.reddit.com/) - Social news aggregation and discussion
 - [API documentation](https://www.reddit.com/dev/api)
-- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/)
-- [Python wrapper #2 - Pushshift](https://github.com/pushshift/api)
+- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/) ![GitHub Repo stars](https://img.shields.io/github/stars/praw-dev/praw) ![GitHub last commit](https://img.shields.io/github/last-commit/praw-dev/praw)
+- [Python wrapper #2 - Pushshift](https://github.com/pushshift/api) ![GitHub Repo stars](https://img.shields.io/github/stars/pushshift/api) ![GitHub last commit](https://img.shields.io/github/last-commit/pushshift/api)
 
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
 - [API documentation](https://www.programmableweb.com/api/rotten-tomatoes)
@@ -443,9 +442,9 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Slack](https://slack.com/) - Team Communication Platform
 - [API documentation](https://api.slack.com/)
-- [Python wrapper #1: slackclient](https://github.com/slackapi/python-slackclient)
-- [Python wrapper #2: Slacker](https://github.com/os/slacker)
-- [Python wrapper #3: Gendo](https://github.com/nficano/gendo)
+- [Python wrapper #1: slackclient](https://github.com/slackapi/python-slackclient) ![GitHub Repo stars](https://img.shields.io/github/stars/slackapi/python-slackclient) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/python-slackclient)
+- [Python wrapper #2: Slacker](https://github.com/os/slacker) ![GitHub Repo stars](https://img.shields.io/github/stars/os/slacker) ![GitHub last commit](https://img.shields.io/github/last-commit/os/slacker)
+- [Python wrapper #3: Gendo](https://github.com/nficano/gendo) ![GitHub Repo stars](https://img.shields.io/github/stars/nficano/gendo) ![GitHub last commit](https://img.shields.io/github/last-commit/nficano/gendo)
 
 ### [SmartFile](https://smartfile.com/) - File management service
 - [API documentation](https://app.smartfile.com/api/)
@@ -529,13 +528,13 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Tumblr](https://www.tumblr.com) - Microblogging platform
 - [API documentation](https://www.tumblr.com/docs/en/api/v2)
-- [Python wrapper #1](https://github.com/tumblr/pytumblr)
-- [Python wrapper #2](https://github.com/michaelhelmick/python-tumblpy)
+- [Python wrapper #1](https://github.com/tumblr/pytumblr) ![GitHub Repo stars](https://img.shields.io/github/stars/tumblr/pytumblr) ![GitHub last commit](https://img.shields.io/github/last-commit/tumblr/pytumblr)
+- [Python wrapper #2](https://github.com/michaelhelmick/python-tumblpy) ![GitHub Repo stars](https://img.shields.io/github/stars/michaelhelmick/python-tumblpy) ![GitHub last commit](https://img.shields.io/github/last-commit/michaelhelmick/python-tumblpy)
 
 ### [TheTVDB.com](https://thetvdb.com) - Community driven database of television shows
 - [API documentation](https://www.thetvdb.com/wiki/index.php/Programmers_API)
-- [Python wrapper #1](https://github.com/dbr/tvdb_api/tree/master)
-- [Python wrapper #2](https://github.com/fuzeman/tvdb_api)
+- [Python wrapper #1](https://github.com/dbr/tvdb_api) ![GitHub Repo stars](https://img.shields.io/github/stars/dbr/tvdb_api) ![GitHub last commit](https://img.shields.io/github/last-commit/dbr/tvdb_api)
+- [Python wrapper #2](https://github.com/fuzeman/tvdb_api) ![GitHub Repo stars](https://img.shields.io/github/stars/fuzeman/tvdb_api) ![GitHub last commit](https://img.shields.io/github/last-commit/fuzeman/tvdb_api)
 
 ### [Twilio](https://twilio.com/) - SMS and Voice through the cloud
 - [API documentation](https://www.twilio.com/docs/python/install)
@@ -543,12 +542,12 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Twitter](https://twitter.com/) - Online microblogging service
 - [API documentation](https://developer.twitter.com/en/docs)
-- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter/) 
-- [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) 
-- [Python wrapper #3: birdy](https://github.com/inueni/birdy) 
-- [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) 
-- [Python wrapper #5: GetOldTweets3](https://github.com/Mottl/GetOldTweets3)
-- [Python wrapper #6: TwitterScraper](https://github.com/taspinar/twitterscraper)
+- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter/) ![GitHub Repo stars](https://img.shields.io/github/stars/bear/python-twitter/) ![GitHub last commit](https://img.shields.io/github/last-commit/bear/python-twitter/)
+- [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) ![GitHub Repo stars](https://img.shields.io/github/stars/ryanmcgrath/twython) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcgrath/twython)
+- [Python wrapper #3: birdy](https://github.com/inueni/birdy) ![GitHub Repo stars](https://img.shields.io/github/stars/inueni/birdy) ![GitHub last commit](https://img.shields.io/github/last-commit/inueni/birdy)
+- [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) ![GitHub last commit](https://img.shields.io/github/last-commit/tweepy/tweepy)
+- [Python wrapper #5: GetOldTweets3](https://github.com/Mottl/GetOldTweets3) ![GitHub Repo stars](https://img.shields.io/github/Mottl/GetOldTweets3) ![GitHub last commit](https://img.shields.io/github/last-commit/Mottl/GetOldTweets3)
+- [Python wrapper #6: TwitterScraper](https://github.com/taspinar/twitterscraper) ![GitHub Repo stars](https://img.shields.io/github/stars/taspinar/twitterscraper) ![GitHub last commit](https://img.shields.io/github/last-commit/taspinar/twitterscraper)
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
 - [API Documentation](https://developer.uber.com/docs)
@@ -601,9 +600,9 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [World Bank](https://data.worldbank.org/indicator) - Collection of development indicators
 - [API documentation](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information)
-- [Python wrapper #1: wbgapi](https://github.com/tgherzog/wbgapi/tree/master/wbgapi) 
-- [Python wrapper #2: wbdata](https://github.com/OliverSherouse/wbdata)
-- [Python wrapper #3: World-Bank-Python](https://github.com/dpfens/World-Bank-Python)
+- [Python wrapper #1: wbgapi](https://github.com/tgherzog/wbgapi) ![GitHub Repo stars](https://img.shields.io/github/stars/tgherzog/wbgapi) ![GitHub last commit](https://img.shields.io/github/last-commit/tgherzog/wbgapi)
+- [Python wrapper #2: wbdata](https://github.com/OliverSherouse/wbdata) ![GitHub Repo stars](https://img.shields.io/github/stars/OliverSherouse/wbdata) ![GitHub last commit](https://img.shields.io/github/last-commit/OliverSherouse/wbdata)
+- [Python wrapper #3: World-Bank-Python](https://github.com/dpfens/World-Bank-Python) ![GitHub Repo stars](https://img.shields.io/github/stars/dpfens/World-Bank-Python) ![GitHub last commit](https://img.shields.io/github/last-commit/dpfens/World-Bank-Python)
 
 ### [World Weather](https://www.worldweatheronline.com/) - Weather service
 - [API documentation](https://developer.worldweatheronline.com)
@@ -620,6 +619,9 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Yahoo](https://www.yahoo.com) - Web portal, search engine
 - [API documentation](https://github.com/cttn/Stockex)
 - [Python wrapper](https://code.google.com/p/python-weather-api/)
+
+### [Yahoo Finance](https://finance.yahoo.com/) - Stock data
+- [Python wrapper](https://github.com/ranaroussi/yfinance)
 
 ### [Yelp](https://www.yelp.com) - Local search website
 - [API documentation](https://www.yelp.com/developers/documentation)
