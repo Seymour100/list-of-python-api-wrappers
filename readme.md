@@ -92,10 +92,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://www.bing.com/dev/en-us/dev-center)
 - [Python wrapper](https://code.google.com/p/pybing/)
 
-### [Bitcoin](https://www.bitcoin.com/) - Open source P2P money
 
-- [API documentation](<https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)#Python>)
-- [Python wrapper](https://github.com/laanwj/bitcoin-python) ![GitHub Repo stars](https://img.shields.io/github/stars/laanwj/bitcoin-python) ![GitHub last commit](https://img.shields.io/github/last-commit/laanwj/bitcoin-python)
 ### [Bitly](https://www.bitly.com/) - URL shortener
 
 - [API Documentation](https://dev.bitly.com/get_started.html)
@@ -127,14 +124,11 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API Documentation](https://challonge.com/api)
 - [Python wrapper](https://github.com/ZEDGR/pychal) ![GitHub Repo stars](https://img.shields.io/github/stars/ZEDGR/pychal) ![GitHub last commit](https://img.shields.io/github/last-commit/ZEDGR/pychal)
-### [Chargify](https://chargify.com) - Recurring billing application
 
-- [API documentation](https://docs.chargify.com/api-introduction)
-- [Python wrapper](https://github.com/hindsightlabs/chargify-python) ![GitHub Repo stars](https://img.shields.io/github/stars/hindsightlabs/chargify-python) ![GitHub last commit](https://img.shields.io/github/last-commit/hindsightlabs/chargify-python)
 ### [Close.io](https://close.io) - Sales communication platform
 
 - [API documentation](https://developer.close.io)
-- [Python wrapper](https://github.com/elasticsales/closeio-api/) ![GitHub Repo stars](https://img.shields.io/github/stars/elasticsales/closeio-api/) ![GitHub last commit](https://img.shields.io/github/last-commit/elasticsales/closeio-api/)
+- [Python wrapper](https://github.com/closeio/closeio-api/) ![GitHub Repo stars](https://img.shields.io/github/stars/closeio/closeio-api/) ![GitHub last commit](https://img.shields.io/github/last-commit/elasticsales/closeio-api/)
 ### [Coinbase](https://www.coinbase.com) - Bitcoin Wallet
 
 - [API documentation](https://coinbase.com/api/doc.html)
@@ -149,7 +143,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [Python wrapper](https://github.com/Kamaropoulos/covid19py) ![GitHub Repo stars](https://img.shields.io/github/stars/Kamaropoulos/covid19py) ![GitHub last commit](https://img.shields.io/github/last-commit/Kamaropoulos/covid19py)
 ### [Craigslist](https://www.craigslist.org/) - Classified advertisements
 
-- [API documentation](https://github.com/juliomalegria/python-craigslist) ![GitHub Repo stars](https://img.shields.io/github/stars/juliomalegria/python-craigslist) ![GitHub last commit](https://img.shields.io/github/last-commit/juliomalegria/python-craigslist)
+
 - [Python wrapper](https://github.com/juliomalegria/python-craigslist) ![GitHub Repo stars](https://img.shields.io/github/stars/juliomalegria/python-craigslist) ![GitHub last commit](https://img.shields.io/github/last-commit/juliomalegria/python-craigslist)
 ### [Discogs](https://www.discogs.com) - Marketplace for music on vinyl & CD.
 
@@ -195,7 +189,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [FedEx](https://www.fedex.com/) - Global courier delivery services
 
 - [API documentation](https://www.fedex.com/us/developer/)
-- [Python wrapper](https://github.com/gtaylor/python-fedex/) ![GitHub Repo stars](https://img.shields.io/github/stars/gtaylor/python-fedex/) ![GitHub last commit](https://img.shields.io/github/last-commit/gtaylor/python-fedex/)
+- [Python wrapper](https://github.com/python-fedex-devs/python-fedex/) ![GitHub Repo stars](https://img.shields.io/github/stars/python-fedex-devs/python-fedex/) ![GitHub last commit](https://img.shields.io/github/last-commit/python-fedex-devs/python-fedex/)
 ### [Flickr](https://www.flickr.com) - Image and video hosting
 
 - [API documentation](https://www.flickr.com/services/api/)
@@ -212,8 +206,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://geocod.io/docs/)
 - [Python wrapper](https://github.com/bennylope/pygeocodio) ![GitHub Repo stars](https://img.shields.io/github/stars/bennylope/pygeocodio) ![GitHub last commit](https://img.shields.io/github/last-commit/bennylope/pygeocodio)
-### [GitHub](https://github.com/) - Online project hosting ![GitHub Repo stars](https://img.shields.io/github/stars/) - Online project hostin) ![GitHub last commit](https://img.shields.io/github/last-commit/) - Online project hostin)
-- [API documentation](https://developer.github.com/) ![GitHub Repo stars](https://img.shields.io/github/stars/) ![GitHub last commit](https://img.shields.io/github/last-commit/)
+### [GitHub](https://github.com/) - Online project hosting 
+- [API documentation](https://developer.github.com/) 
 - [Python wrapper](https://github3py.readthedocs.org/en/latest/)
 
 ### [GitLab](https://gitlab.com/) - Online and self-hosted Git repository management
@@ -411,7 +405,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole) ![GitHub Repo stars](https://img.shields.io/github/stars/rsc-dev/loophole) ![GitHub last commit](https://img.shields.io/github/last-commit/rsc-dev/loophole)
-### Pybraries - Wrapper for the [libraries.io](https://libraries.io/) API. Get info about open source packages.
+### [libraries.io](https://libraries.io/) Info about open source packages
 
 - [API documentation](https://pypi.org/project/pybraries/)
 - [Python wrapper](https://github.com/pybraries/pybraries) ![GitHub Repo stars](https://img.shields.io/github/stars/pybraries/pybraries) ![GitHub last commit](https://img.shields.io/github/last-commit/pybraries/pybraries)
@@ -511,7 +505,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://temp-mail.org/en/api/)
 - [Python wrapper](https://github.com/CITGuru/tempmail) ![GitHub Repo stars](https://img.shields.io/github/stars/CITGuru/tempmail) ![GitHub last commit](https://img.shields.io/github/last-commit/CITGuru/tempmail)
-### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine ![GitHub Repo stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract) - OCR Engin) ![GitHub last commit](https://img.shields.io/github/last-commit/tesseract-ocr/tesseract) - OCR Engin)
+### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine 
 - [API documentation](https://tesseract-ocr.github.io/)
 - [Python wrapper](https://github.com/sirfz/tesserocr) ![GitHub Repo stars](https://img.shields.io/github/stars/sirfz/tesserocr) ![GitHub last commit](https://img.shields.io/github/last-commit/sirfz/tesserocr)
 ### [The Pirate Bay](https://thepiratebay.sx/) - Peer-to-peer file sharing
@@ -604,7 +598,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Wikipedia](https://www.wikipedia.org/) - Wikipedia
 
 - [API documentation](https://www.mediawiki.org/wiki/API)
-- [Python wrapper](https://github.com/martin-majlis/Wikipedia-API/) ![GitHub Repo stars](https://img.shields.io/github/stars/martin-majlis/Wikipedia-API/) ![GitHub last commit](https://img.shields.io/github/last-commit/martin-majlis/Wikipedia-API/)
+- [Python wrapper](https://github.com/martin-majlis/Wikipedia-API) ![GitHub Repo stars](https://img.shields.io/github/stars/martin-majlis/Wikipedia-API) ![GitHub last commit](https://img.shields.io/github/last-commit/martin-majlis/Wikipedia-API)
 ### [Windows Azure](https://www.windowsazure.com/) - Microsoft's cloud platform
 
 - [API documentation](https://www.windowsazure.com/en-us/develop/python/)
@@ -612,7 +606,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [World Bank](https://data.worldbank.org/indicator) - Collection of development indicators
 
 - [API documentation](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information)
-- [Python wrapper #1: wbgapi](https://github.com/tgherzog/wbgapi/tree/master/wbgapi) ![GitHub Repo stars](https://img.shields.io/github/stars/tgherzog/wbgapi/tree/master/wbgapi) ![GitHub last commit](https://img.shields.io/github/last-commit/tgherzog/wbgapi/tree/master/wbgapi)
+- [Python wrapper #1: wbgapi](https://github.com/tgherzog/wbgapi) ![GitHub Repo stars](https://img.shields.io/github/stars/tgherzog/wbgapi) ![GitHub last commit](https://img.shields.io/github/last-commit/tgherzog/wbgapi)
 - [Python wrapper #2: wbdata](https://github.com/OliverSherouse/wbdata) ![GitHub Repo stars](https://img.shields.io/github/stars/OliverSherouse/wbdata) ![GitHub last commit](https://img.shields.io/github/last-commit/OliverSherouse/wbdata)
 - [Python wrapper #3: World-Bank-Python](https://github.com/dpfens/World-Bank-Python) ![GitHub Repo stars](https://img.shields.io/github/stars/dpfens/World-Bank-Python) ![GitHub last commit](https://img.shields.io/github/last-commit/dpfens/World-Bank-Python)
 ### [World Weather](https://www.worldweatheronline.com/) - Weather service
