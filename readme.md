@@ -327,7 +327,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [Python wrapper for Meetup Web](https://github.com/pferate/meetup-api) ![GitHub Repo stars](https://img.shields.io/github/stars/pferate/meetup-api) ![GitHub last commit](https://img.shields.io/github/last-commit/pferate/meetup-api)
 ### [MLB GameDay](https://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
 
-- [API documentation](https://github.com/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md) ![GitHub Repo stars](https://img.shields.io/github/stars/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md) ![GitHub last commit](https://img.shields.io/github/last-commit/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md)
+- [API documentation](https://github.com/jasonlttl/gameday-api-docs/blob/master/gameday-api-primer.md) 
 - [Python wrapper](https://github.com/zachpanz88/mlbgame) ![GitHub Repo stars](https://img.shields.io/github/stars/zachpanz88/mlbgame) ![GitHub last commit](https://img.shields.io/github/last-commit/zachpanz88/mlbgame)
 ### [MonkeyLearn](https://www.monkeylearn.com/) - Machine learning for text analysis
 
@@ -416,7 +416,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Reddit](https://www.reddit.com/) - Social news aggregation and discussion
 
 - [API documentation](https://www.reddit.com/dev/api)
-- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/) ![GitHub Repo stars](https://img.shields.io/github/stars/praw-dev/praw/) ![GitHub last commit](https://img.shields.io/github/last-commit/praw-dev/praw/)
+- [Python wrapper #1 - PRAW](https://github.com/praw-dev/praw/) ![GitHub Repo stars](https://img.shields.io/github/stars/praw-dev/praw) ![GitHub last commit](https://img.shields.io/github/last-commit/praw-dev/praw)  
 - [Python wrapper #2 - Pushshift](https://github.com/pushshift/api) ![GitHub Repo stars](https://img.shields.io/github/stars/pushshift/api) ![GitHub last commit](https://img.shields.io/github/last-commit/pushshift/api)
 ### [RottenTomatoes](https://rottentomatoes.com/) - Film review aggregator
 
