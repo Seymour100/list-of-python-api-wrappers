@@ -128,7 +128,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Close.io](https://close.io) - Sales communication platform
 
 - [API documentation](https://developer.close.io)
-- [Python wrapper](https://github.com/closeio/closeio-api/) ![GitHub Repo stars](https://img.shields.io/github/stars/closeio/closeio-api/) ![GitHub last commit](https://img.shields.io/github/last-commit/elasticsales/closeio-api/)
+- [Python wrapper](https://github.com/closeio/closeio-api) ![GitHub Repo stars](https://img.shields.io/github/stars/closeio/closeio-api) ![GitHub last commit](https://img.shields.io/github/last-commit/elasticsales/closeio-api)
 ### [Coinbase](https://www.coinbase.com) - Bitcoin Wallet
 
 - [API documentation](https://coinbase.com/api/doc.html)
@@ -188,8 +188,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [FedEx](https://www.fedex.com/) - Global courier delivery services
 
-- [API documentation](https://www.fedex.com/us/developer/)
-- [Python wrapper](https://github.com/python-fedex-devs/python-fedex/) ![GitHub Repo stars](https://img.shields.io/github/stars/python-fedex-devs/python-fedex/) ![GitHub last commit](https://img.shields.io/github/last-commit/python-fedex-devs/python-fedex/)
+- [API documentation](https://www.fedex.com/us/developer)
+- [Python wrapper](https://github.com/python-fedex-devs/python-fedex) ![GitHub Repo stars](https://img.shields.io/github/stars/python-fedex-devs/python-fedex) ![GitHub last commit](https://img.shields.io/github/last-commit/python-fedex-devs/python-fedex)
 ### [Flickr](https://www.flickr.com) - Image and video hosting
 
 - [API documentation](https://www.flickr.com/services/api/)
@@ -255,7 +255,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Hacker News](https://news.ycombinator.com/) - Social news
 
 - [API documentation](https://github.com/HackerNews/API) ![GitHub Repo stars](https://img.shields.io/github/stars/HackerNews/API) ![GitHub last commit](https://img.shields.io/github/last-commit/HackerNews/API)
-- [Python wrapper](https://github.com/avinassh/haxor/) ![GitHub Repo stars](https://img.shields.io/github/stars/avinassh/haxor/) ![GitHub last commit](https://img.shields.io/github/last-commit/avinassh/haxor/)
+- [Python wrapper](https://github.com/avinassh/haxor) ![GitHub Repo stars](https://img.shields.io/github/stars/avinassh/haxor) ![GitHub last commit](https://img.shields.io/github/last-commit/avinassh/haxor)
 ### [Hadoop YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
 
 - [API documentation](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
@@ -540,16 +540,16 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [TheTVDB.com](https://thetvdb.com) - Community driven database of television shows
 
 - [API documentation](https://www.thetvdb.com/wiki/index.php/Programmers_API)
-- [Python wrapper #1](https://github.com/dbr/tvdb_api/tree/master) ![GitHub Repo stars](https://img.shields.io/github/stars/dbr/tvdb_api/tree/master) ![GitHub last commit](https://img.shields.io/github/last-commit/dbr/tvdb_api/tree/master)
+- [Python wrapper #1](https://github.com/dbr/tvdb_api) ![GitHub Repo stars](https://img.shields.io/github/stars/dbr/tvdb_api) ![GitHub last commit](https://img.shields.io/github/last-commit/dbr/tvdb_api)
 - [Python wrapper #2](https://github.com/fuzeman/tvdb_api) ![GitHub Repo stars](https://img.shields.io/github/stars/fuzeman/tvdb_api) ![GitHub last commit](https://img.shields.io/github/last-commit/fuzeman/tvdb_api)
 ### [Twilio](https://twilio.com/) - SMS and Voice through the cloud
 
 - [API documentation](https://www.twilio.com/docs/python/install)
-- [Python wrapper for Twilio](https://github.com/twilio/twilio-python/) ![GitHub Repo stars](https://img.shields.io/github/stars/twilio/twilio-python/) ![GitHub last commit](https://img.shields.io/github/last-commit/twilio/twilio-python/)
+- [Python wrapper for Twilio](https://github.com/twilio/twilio-python) ![GitHub Repo stars](https://img.shields.io/github/stars/twilio/twilio-python) ![GitHub last commit](https://img.shields.io/github/last-commit/twilio/twilio-python)
 ### [Twitter](https://twitter.com/) - Online microblogging service
 
 - [API documentation](https://developer.twitter.com/en/docs)
-- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter/) ![GitHub Repo stars](https://img.shields.io/github/stars/bear/python-twitter/) ![GitHub last commit](https://img.shields.io/github/last-commit/bear/python-twitter/)
+- [Python wrapper #1: python-twitter](https://github.com/bear/python-twitter) ![GitHub Repo stars](https://img.shields.io/github/stars/bear/python-twitter) ![GitHub last commit](https://img.shields.io/github/last-commit/bear/python-twitter)
 - [Python wrapper #2: twython](https://github.com/ryanmcgrath/twython) ![GitHub Repo stars](https://img.shields.io/github/stars/ryanmcgrath/twython) ![GitHub last commit](https://img.shields.io/github/last-commit/ryanmcgrath/twython)
 - [Python wrapper #3: birdy](https://github.com/inueni/birdy) ![GitHub Repo stars](https://img.shields.io/github/stars/inueni/birdy) ![GitHub last commit](https://img.shields.io/github/last-commit/inueni/birdy)
 - [Python wrapper #4: tweepy](https://github.com/tweepy/tweepy) ![GitHub Repo stars](https://img.shields.io/github/stars/tweepy/tweepy) ![GitHub last commit](https://img.shields.io/github/last-commit/tweepy/tweepy)
@@ -559,10 +559,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API Documentation](https://developer.uber.com/docs)
 - [Python wrapper](https://github.com/uber/rides-python-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/uber/rides-python-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/uber/rides-python-sdk)
-### [Udacity](https://www.udacity.com) - Online University
 
-- [API documentation](https://www.udacity.com/catalog-api)
-- [Python wrapper](https://github.com/tylucaskelley/udacity-api-python) ![GitHub Repo stars](https://img.shields.io/github/stars/tylucaskelley/udacity-api-python) ![GitHub last commit](https://img.shields.io/github/last-commit/tylucaskelley/udacity-api-python)
 ### [Udemy](https://www.udemy.com) - Online University
 
 - [API documentation](https://www.udemy.com/developers/)
@@ -588,7 +585,8 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://vk.com/dev/methods)
 - [Python wrapper #1](https://github.com/dimka665/vk) ![GitHub Repo stars](https://img.shields.io/github/stars/dimka665/vk) ![GitHub last commit](https://img.shields.io/github/last-commit/dimka665/vk)
 - [Python wrapper #2](https://github.com/python273/vk_api) ![GitHub Repo stars](https://img.shields.io/github/stars/python273/vk_api) ![GitHub last commit](https://img.shields.io/github/last-commit/python273/vk_api)
-### [Walmart Open API] - access to the Walmart product catalog 
+
+### [Walmart Open API](https://walmart.com) - access to the Walmart product catalog 
 - [API documentation](https://developer.walmartlabs.com/)
 - [Python wrapper](https://github.com/caroso1222/wapy) ![GitHub Repo stars](https://img.shields.io/github/stars/caroso1222/wapy) ![GitHub last commit](https://img.shields.io/github/last-commit/caroso1222/wapy)
 ### [WhatsApp](https://www.whatsapp.com/) - Mobile and desktop messaging app
