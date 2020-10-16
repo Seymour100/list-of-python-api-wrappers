@@ -45,12 +45,11 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Archive.is](https://archive.is/) - Time capsule for web pages
 
 - [API documentation](https://mementoweb.org/depot/native/archiveis/)
-- [Python wrapper #1](https://github.com/jjjake/internetarchive) ![GitHub Repo stars](https://img.shields.io/github/stars/jjjake/internetarchive) ![GitHub last commit](https://img.shields.io/github/last-commit/jjjake/internetarchive)
-- [Python wrapper #2](https://github.com/pastpages/archiveis) ![GitHub Repo stars](https://img.shields.io/github/stars/pastpages/archiveis) ![GitHub last commit](https://img.shields.io/github/last-commit/pastpages/archiveis)
+- [Python wrapper](https://github.com/pastpages/archiveis) ![GitHub Repo stars](https://img.shields.io/github/stars/pastpages/archiveis) ![GitHub last commit](https://img.shields.io/github/last-commit/pastpages/archiveis)
 ### [Archive.org](https://archive.org/) - Internet archive
 
 - [API documentation](https://archive.org/help/json.php)
-- [Python wrapper](https://pypi.python.org/pypi/internetarchive)
+- [Python wrapper](https://github.com/jjjake/internetarchive) ![GitHub Repo stars](https://img.shields.io/github/stars/jjjake/internetarchive) ![GitHub last commit](https://img.shields.io/github/last-commit/jjjake/internetarchive)
 
 ### [Arista EOS](https://www.arista.com/en/products/eos) - Network operating system
 
