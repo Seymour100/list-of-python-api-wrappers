@@ -62,17 +62,17 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Asana](https://asana.com/) - Organise projects and teams
 
 - [API documentation](https://asana.readthedocs.io/)
-- [Python wrapper](https://pypi.org/project/asana/)
+- [Python wrapper](https://github.com/Asana/python-asana) ![GitHub Repo stars](https://img.shields.io/github/stars/Asana/python-asana) ![GitHub last commit](https://img.shields.io/github/last-commit/Asana/python-asana)
 
 ### [Ascribe](https://www.ascribe.io) - Register and license intellectual Property
 
 - [API documentation](https://docs.ascribe.apiary.io)
-- [Python wrapper](https://pypi.org/project/ascribe/)
+- [Python wrapper](https://pypi.org/project/ascribe/) 
 
 ### [Authorize.net](https://www.authorize.net/) - Payment gateway
 
 - [API documentation](https://developer.authorize.net/api/)
-- [Python wrapper](https://authorize-sauce.readthedocs.io/en/latest/)
+- [Python wrapper](https://github.com/AuthorizeNet/sdk-python) ![GitHub Repo stars](https://img.shields.io/github/stars/AuthorizeNet/sdk-python) ![GitHub last commit](https://img.shields.io/github/last-commit/AuthorizeNet/sdk-python)
 
 ### [Azure](https://azure.microsoft.com/) - Microsoft cloud computing platform
 
@@ -86,10 +86,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://bigml.com/developers)
 - [Python wrapper](https://github.com/bigmlcom/python) ![GitHub Repo stars](https://img.shields.io/github/stars/bigmlcom/python) ![GitHub last commit](https://img.shields.io/github/last-commit/bigmlcom/python)
-### [Bing](https://www.bing.com) - Microsoft search engine
-
-- [API documentation](https://www.bing.com/dev/en-us/dev-center)
-- [Python wrapper](https://code.google.com/p/pybing/)
 
 
 ### [Bitly](https://www.bitly.com/) - URL shortener
@@ -242,10 +238,11 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper](https://github.com/burnash/gspread) ![GitHub Repo stars](https://img.shields.io/github/stars/burnash/gspread) ![GitHub last commit](https://img.shields.io/github/last-commit/burnash/gspread)
-### [Google Stree View](https://www.google.com/streetview/) - Images from Google Streetview
+
+### [Google StreetView](https://www.google.com/streetview/) - Images from Google StreetView
 
 - [API documentation](https://developers.google.com/maps/documentation/streetview/usage-and-billing)
-- [Python wrapper](https://pypi.org/project/google-streetview/)
+- [Python wrapper](https://github.com/rrwen/google_streetview) ![GitHub Repo stars](https://img.shields.io/github/stars/rrwen/google_streetview) ![GitHub last commit](https://img.shields.io/github/last-commit/rrwen/google_streetview)
 
 ### [GoPro](https://gopro.com) - Cameras
 
@@ -396,6 +393,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://plot.ly/api/)
 - [Python wrapper](https://github.com/plotly/plotly.py) ![GitHub Repo stars](https://img.shields.io/github/stars/plotly/plotly.py) ![GitHub last commit](https://img.shields.io/github/last-commit/plotly/plotly.py)
+
 ### [Pokemon Characters](https://pokeapi.co) - Pokemon character info
 
 - [API documentation](https://pokeapi.co/docs/v2)
@@ -433,14 +431,16 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://developer.scaleway.com)
 - [Python wrapper](https://github.com/scaleway/python-scaleway) ![GitHub Repo stars](https://img.shields.io/github/stars/scaleway/python-scaleway) ![GitHub last commit](https://img.shields.io/github/last-commit/scaleway/python-scaleway)
+
 ### [Scrapinghub](https://scrapinghub.com/) - Scraping services
 
 - [API documentation](https://python-scrapinghub.readthedocs.io/en/latest/client/apidocs.html)
 - [Python wrapper](https://github.com/scrapinghub/python-scrapinghub) ![GitHub Repo stars](https://img.shields.io/github/stars/scrapinghub/python-scrapinghub) ![GitHub last commit](https://img.shields.io/github/last-commit/scrapinghub/python-scrapinghub)
+
 ### [Sentinelsat](http://www.esa.int/Applications/Observing_the_Earth/Copernicus/Overview4) - Satellite
 
 - [API](https://scihub.copernicus.eu/)
-- [Python wrapper](https://sentinelsat.readthedocs.io/en/stable/)
+- [Python wrapper](https://github.com/sentinelsat/sentinelsat) ![GitHub Repo stars](https://img.shields.io/github/stars/sentinelsat/sentinelsat) ![GitHub last commit](https://img.shields.io/github/last-commit/sentinelsat/sentinelsat)
 
 ### [Skyscanner](https://www.skyscanner.net/) - Travel metasearch
 
