@@ -229,9 +229,10 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://geocod.io/docs/)
 - [Python wrapper](https://github.com/bennylope/pygeocodio) ![GitHub Repo stars](https://img.shields.io/github/stars/bennylope/pygeocodio) ![GitHub last commit](https://img.shields.io/github/last-commit/bennylope/pygeocodio)
+
 ### [GitHub](https://github.com/) - Online project hosting 
 - [API documentation](https://developer.github.com/) 
-- [Python wrapper](https://github3py.readthedocs.org/en/latest/)
+- [Python wrapper](https://github3py.readthedocs.org/en/latest/) ![GitHub Repo stars](https://img.shields.io/github/stars/sigmavirus24/github3.py) ![GitHub last commit](https://img.shields.io/github/last-commit/sigmavirus24/github3.py)
 
 ### [GitLab](https://gitlab.com/) - Online and self-hosted Git repository management
 
