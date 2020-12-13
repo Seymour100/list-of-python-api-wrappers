@@ -716,11 +716,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API documentation](https://developer.wunderlist.com/documentation)
 - [Python wrapper](https://github.com/mieubrisse/wunderpy2) ![GitHub Repo stars](https://img.shields.io/github/stars/mieubrisse/wunderpy2) ![GitHub last commit](https://img.shields.io/github/last-commit/mieubrisse/wunderpy2)
 
-### [Yahoo](https://www.yahoo.com) - Web portal, search engine
-
-- [API documentation](https://github.com/cttn/Stockex) ![GitHub Repo stars](https://img.shields.io/github/stars/cttn/Stockex) ![GitHub last commit](https://img.shields.io/github/last-commit/cttn/Stockex)
-- [Python wrapper](https://code.google.com/p/python-weather-api/)
-
 ### [Yelp](https://www.yelp.com) - Local search website
 
 - [API documentation](https://www.yelp.com/developers/documentation)
