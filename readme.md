@@ -654,10 +654,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 - [API documentation](https://www.udemy.com/developers/)
 - [Python wrapper](https://github.com/udacity/PYND) ![GitHub Repo stars](https://img.shields.io/github/stars/udacity/PYND) ![GitHub last commit](https://img.shields.io/github/last-commit/udacity/PYND)
-### [UPS](https://www.ups.com) - Package delivery
-
-- [API documentation](https://www.ups.com/upsdeveloperkit)
-- [Python wrapper for UPS](https://github.com/classicspecs/ClassicUPS) ![GitHub Repo stars](https://img.shields.io/github/stars/classicspecs/ClassicUPS) ![GitHub last commit](https://img.shields.io/github/last-commit/classicspecs/ClassicUPS)
 
 ### [UrbanDictionary](https://www.urbandictionary.com) - Web-based dictionary
 
