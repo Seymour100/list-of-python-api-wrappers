@@ -361,7 +361,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 
 ### [Medium](https://medium.com/) - Blog publishing platform
 
-- [API documentation](https://github.com/enginebai/PyMedium) ![GitHub Repo stars](https://img.shields.io/github/stars/enginebai/PyMedium) ![GitHub last commit](https://img.shields.io/github/last-commit/enginebai/PyMedium)
+- [API documentation](https://github.com/Medium/medium-api-docs) 
 - [Python wrapper #1](https://github.com/enginebai/PyMedium) ![GitHub Repo stars](https://img.shields.io/github/stars/enginebai/PyMedium) ![GitHub last commit](https://img.shields.io/github/last-commit/enginebai/PyMedium)
 - [Python wrapper #2](https://github.com/wopify/medium-api-wrapper) ![GitHub Repo stars](https://img.shields.io/github/stars/wopify/medium-api-wrapper) ![GitHub last commit](https://img.shields.io/github/last-commit/wopify/medium-api-wrapper)
 
