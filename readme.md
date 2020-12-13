@@ -388,11 +388,6 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 - [API Documentation](https://api.nasa.gov/)
 - [Python wrapper](https://github.com/nasa/RtRetrievalFramework) ![GitHub Repo stars](https://img.shields.io/github/stars/nasa/RtRetrievalFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/nasa/RtRetrievalFramework)
 
-### [Netflix](https://www.netflix.com/) - On-demand streaming media
-
-- [API Documentation](https://developer.netflix.com/)
-- [Python wrapper](https://github.com/jcopenha/pyflix) ![GitHub Repo stars](https://img.shields.io/github/stars/jcopenha/pyflix) ![GitHub last commit](https://img.shields.io/github/last-commit/jcopenha/pyflix)
-
 ### [Netflix Roulette](https://netflixroulette.net/) - Get a random movie from the Netflix catalog and watch it instantly
 
 - [API Documentation](https://netflixroulette.net/api/)
