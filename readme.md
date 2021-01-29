@@ -517,7 +517,7 @@ The [pandas-datareader](https://pandas-datareader.readthedocs.io/) allows you to
 ### [Slack](https://slack.com/) - Team communication platform
 
 - [API documentation](https://api.slack.com/)
-- [Python wrapper #1: slackclient](https://github.com/slackapi/python-slackclient) ![GitHub Repo stars](https://img.shields.io/github/stars/slackapi/python-slackclient) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/python-slackclient)
+- [Python wrapper #1: slack-sdk](https://github.com/slackapi/python-slack-sdk) ![GitHub Repo stars](https://img.shields.io/github/stars/slackapi/python-slack-sdk) ![GitHub last commit](https://img.shields.io/github/last-commit/slackapi/python-slack-sdk)
 - [Python wrapper #2: Slacker](https://github.com/os/slacker) ![GitHub Repo stars](https://img.shields.io/github/stars/os/slacker) ![GitHub last commit](https://img.shields.io/github/last-commit/os/slacker)
 - [Python wrapper #3: Gendo](https://github.com/nficano/gendo) ![GitHub Repo stars](https://img.shields.io/github/stars/nficano/gendo) ![GitHub last commit](https://img.shields.io/github/last-commit/nficano/gendo)
 
